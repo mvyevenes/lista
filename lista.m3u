@@ -1,17 +1,17 @@
 #EXTM3U
 # ================== 🇨🇱 Chile ==================
 
-#EXTINF:-1 tvg-id="zonalatina.cl" tvg-name="CL | ZONA LATINA" tvg-logo="http://redworld.pro:8880/images/5a4b9fa350eb60818dfbde5f9d849c3d.png" group-title="⭐️ CHILE  ",CL | ZONA LATINA
+#EXTINF:-1 tvg-id="zonalatina.cl" tvg-name="ZONA LATINA" tvg-logo="http://redworld.pro:8880/images/5a4b9fa350eb60818dfbde5f9d849c3d.png" group-title="⭐️ CHILE  ",ZONA LATINA
 http://superxlatino.com:8880/franco92372028/dbm9YKwtTwe4/273734
 
-#EXTINF:-1 tvg-id="viax.cl" tvg-name="CL | VIA X HD" tvg-logo="http://redworld.pro:8880/images/5c73b6b860ce69ede2f755625889a0ab.png" group-title="⭐️ CHILE  ",CL | VIA X HD
+#EXTINF:-1 tvg-id="viax.cl" tvg-name="VIA X HD" tvg-logo="http://redworld.pro:8880/images/5c73b6b860ce69ede2f755625889a0ab.png" group-title="⭐️ CHILE  ",VIA X HD
 http://superxlatino.com:8880/franco92372028/dbm9YKwtTwe4/298545
 
-#EXTINF:-1 tvg-id="" tvg-name="CL | UCV HD" tvg-logo="http://redworld.pro:8880/images/c45dd85f48789afdef7e43130f547366.png" group-title="⭐️ CHILE  ",CL | UCV HD
+#EXTINF:-1 tvg-id="" tvg-name="UCV HD" tvg-logo="http://redworld.pro:8880/images/c45dd85f48789afdef7e43130f547366.png" group-title="⭐️ CHILE  ",UCV HD
 http://superxlatino.com:8880/franco92372028/dbm9YKwtTwe4/273733
 
-#EXTINF:-1 tvg-id="" tvg-name="CL | 13 CULTURA" tvg-logo="http://redworld.pro:8880/images/59e7d0aa1c80eca95f6e223b1994b907.png" group-title="⭐️ CHILE  ",CL | 13 CULTURA
+#EXTINF:-1 tvg-id="" tvg-name="13 CULTURA" tvg-logo="http://redworld.pro:8880/images/59e7d0aa1c80eca95f6e223b1994b907.png" group-title="⭐️ CHILE  ",13 CULTURA
 http://superxlatino.com:8880/franco92372028/dbm9YKwtTwe4/300291
 
-#EXTINF:-1 tvg-id="" tvg-name="CL | 13 TELESERIES" tvg-logo="http://redworld.pro:8880/images/337e9d841d5d16a255204ef83a53d9da.png" group-title="⭐️ CHILE  ",CL | 13 TELESERIES
+#EXTINF:-1 tvg-id="" tvg-name="13 TELESERIES" tvg-logo="http://redworld.pro:8880/images/337e9d841d5d16a255204ef83a53d9da.png" group-title="⭐️ CHILE  ",13 TELESERIES
 http://superxlatino.com:8880/franco92372028/dbm9YKwtTwe4/300290
