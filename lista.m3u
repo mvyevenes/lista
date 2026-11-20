@@ -16,5 +16,11 @@ http://superxlatino.com:8880/franco92372028/dbm9YKwtTwe4/300291
 #EXTINF:-1 tvg-id="" tvg-name="13 TELESERIES" tvg-logo="http://redworld.pro:8880/images/337e9d841d5d16a255204ef83a53d9da.png" group-title="⭐️ CHILE  ",13 TELESERIES
 http://superxlatino.com:8880/franco92372028/dbm9YKwtTwe4/300290
 
-#EXTINF:-1 tvg-id="81" tvg-name="Contivision" tvg-logo="https://cdn.m3u.cl/logo/81_Contivision.png", Contivision | CL
+#EXTINF:-1 tvg-id="81" tvg-name="CONTIVISION" tvg-logo="https://cdn.m3u.cl/logo/81_Contivision.png", CONTIVISION
 https://unlimited2-cl-isp.dps.live/cm/cm.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="27" tvg-name="CAROLINA TV" tvg-logo="https://cdn.m3u.cl/logo/27_Carolina_TV.png", CAROLINA TV
+https://mdstrm.com/live-stream-playlist/63a06468117f42713374addd.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="1755" tvg-name="FM PLUS" tvg-logo="https://cdn.m3u.cl/logo/1755_FM_Plus.png", FM PLUS
+https://v2.tustreaming.cl/fmplus/index.m3u8?PlaylistM3UCL
