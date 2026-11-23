@@ -1,1 +1,82 @@
+#EXTM3U x-tvg-url="" version="v1.0.3" build="4"
+# ========================================================
+# LISTA DEPORTES - GENERADA AUTOMATICAMENTE POR ROBOT IPTV
+# Version: v1.0.3 (Build #4)
+# Actualizado: 2026-11-23 19:05:14
+# Hash: 34c51e74
+# Servidores y respaldos balanceados automáticamente
+# ========================================================
 
+
+# ================== ⚽ DIRECTV SPORTS ==================
+
+#EXTINF:-1 tvg-id="dsports.cl" tvg-name="DSPORTS Chile HD [Opción 1]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/DSports_logo.png/320px-DSports_logo.png" group-title="⚽ DIRECTV SPORTS",DSPORTS Chile HD [Opción 1]
+http://23.153.217.158:8080/986618457tv1/g4p2r9/481
+#EXTINF:-1 tvg-id="dsports.cl" tvg-name="DSPORTS Chile HD [Opción 2]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/DSports_logo.png/320px-DSports_logo.png" group-title="⚽ DIRECTV SPORTS",DSPORTS Chile HD [Opción 2]
+http://23.153.217.158:8080/986618457tv1/g4p2r9/465
+#EXTINF:-1 tvg-id="dsports2.cl" tvg-name="DSPORTS 2 Chile HD [Opción 1]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/DSports_logo.png/320px-DSports_logo.png" group-title="⚽ DIRECTV SPORTS",DSPORTS 2 Chile HD [Opción 1]
+http://23.153.217.158:8080/986618457tv1/g4p2r9/464
+#EXTINF:-1 tvg-id="dsports2.cl" tvg-name="DSPORTS 2 Chile HD [Opción 2]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/DSports_logo.png/320px-DSports_logo.png" group-title="⚽ DIRECTV SPORTS",DSPORTS 2 Chile HD [Opción 2]
+http://23.153.217.158:8080/986618457tv1/g4p2r9/478
+#EXTINF:-1 tvg-id="dsportsplus.cl" tvg-name="DSPORTS+ Chile HD [Opción 1]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/DSports_logo.png/320px-DSports_logo.png" group-title="⚽ DIRECTV SPORTS",DSPORTS+ Chile HD [Opción 1]
+http://23.153.217.158:8080/986618457tv1/g4p2r9/472
+#EXTINF:-1 tvg-id="dsportsplus.cl" tvg-name="DSPORTS+ Chile HD [Opción 2]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/DSports_logo.png/320px-DSports_logo.png" group-title="⚽ DIRECTV SPORTS",DSPORTS+ Chile HD [Opción 2]
+http://23.153.217.158:8080/986618457tv1/g4p2r9/469
+#EXTINF:-1 tvg-id="dsportsfight" tvg-name="DSPORTS Fight HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/DSports_logo.png/320px-DSports_logo.png" group-title="⚽ DIRECTV SPORTS",DSPORTS Fight HD
+http://23.153.217.158:8080/986618457tv1/g4p2r9/20350
+
+# ================== ⚽ ESPN ==================
+
+#EXTINF:-1 tvg-id="espn.cl" tvg-name="ESPN Chile HD [Opción 1]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/320px-ESPN_wordmark.svg.png" group-title="⚽ ESPN",ESPN Chile HD [Opción 1]
+http://23.153.217.158:8080/986618457tv1/g4p2r9/501
+#EXTINF:-1 tvg-id="espn.cl" tvg-name="ESPN Chile HD [Opción 2]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/320px-ESPN_wordmark.svg.png" group-title="⚽ ESPN",ESPN Chile HD [Opción 2]
+http://23.153.217.158:8080/986618457tv1/g4p2r9/502
+#EXTINF:-1 tvg-id="espn2.cl" tvg-name="ESPN 2 Chile HD [Opción 1]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/320px-ESPN_wordmark.svg.png" group-title="⚽ ESPN",ESPN 2 Chile HD [Opción 1]
+http://23.153.217.158:8080/986618457tv1/g4p2r9/452
+#EXTINF:-1 tvg-id="espn2.cl" tvg-name="ESPN 2 Chile HD [Opción 2]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/320px-ESPN_wordmark.svg.png" group-title="⚽ ESPN",ESPN 2 Chile HD [Opción 2]
+http://23.153.217.158:8080/986618457tv1/g4p2r9/503
+#EXTINF:-1 tvg-id="espn3.cl" tvg-name="ESPN 3 Chile HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/320px-ESPN_wordmark.svg.png" group-title="⚽ ESPN",ESPN 3 Chile HD
+http://23.153.217.158:8080/986618457tv1/g4p2r9/512
+#EXTINF:-1 tvg-id="espn4" tvg-name="ESPN 4 HD [Opción 1]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/320px-ESPN_wordmark.svg.png" group-title="⚽ ESPN",ESPN 4 HD [Opción 1]
+http://23.153.217.158:8080/986618457tv1/g4p2r9/517
+#EXTINF:-1 tvg-id="espn4" tvg-name="ESPN 4 HD [Opción 2]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/320px-ESPN_wordmark.svg.png" group-title="⚽ ESPN",ESPN 4 HD [Opción 2]
+http://23.153.217.158:8080/986618457tv1/g4p2r9/515
+#EXTINF:-1 tvg-id="espn5" tvg-name="ESPN 5 HD [Opción 1]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/320px-ESPN_wordmark.svg.png" group-title="⚽ ESPN",ESPN 5 HD [Opción 1]
+http://23.153.217.158:8080/986618457tv1/g4p2r9/526
+#EXTINF:-1 tvg-id="espn5" tvg-name="ESPN 5 HD [Opción 2]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/320px-ESPN_wordmark.svg.png" group-title="⚽ ESPN",ESPN 5 HD [Opción 2]
+http://23.153.217.158:8080/986618457tv1/g4p2r9/527
+#EXTINF:-1 tvg-id="espn6" tvg-name="ESPN 6 HD [Opción 1]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/320px-ESPN_wordmark.svg.png" group-title="⚽ ESPN",ESPN 6 HD [Opción 1]
+http://23.153.217.158:8080/986618457tv1/g4p2r9/539
+#EXTINF:-1 tvg-id="espn6" tvg-name="ESPN 6 HD [Opción 2]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/320px-ESPN_wordmark.svg.png" group-title="⚽ ESPN",ESPN 6 HD [Opción 2]
+http://23.153.217.158:8080/986618457tv1/g4p2r9/536
+#EXTINF:-1 tvg-id="espn7" tvg-name="ESPN 7 HD [Opción 1]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/320px-ESPN_wordmark.svg.png" group-title="⚽ ESPN",ESPN 7 HD [Opción 1]
+http://23.153.217.158:8080/986618457tv1/g4p2r9/453
+#EXTINF:-1 tvg-id="espn7" tvg-name="ESPN 7 HD [Opción 2]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/320px-ESPN_wordmark.svg.png" group-title="⚽ ESPN",ESPN 7 HD [Opción 2]
+http://23.153.217.158:8080/986618457tv1/g4p2r9/454
+#EXTINF:-1 tvg-id="espnpremium" tvg-name="ESPN Premium HD [Opción 1]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/320px-ESPN_wordmark.svg.png" group-title="⚽ ESPN",ESPN Premium HD [Opción 1]
+http://23.153.217.158:8080/986618457tv1/g4p2r9/542
+#EXTINF:-1 tvg-id="espnpremium" tvg-name="ESPN Premium HD [Opción 2]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/320px-ESPN_wordmark.svg.png" group-title="⚽ ESPN",ESPN Premium HD [Opción 2]
+http://23.153.217.158:8080/986618457tv1/g4p2r9/543
+#EXTINF:-1 tvg-id="espnextra" tvg-name="ESPN Extra HD [Opción 1]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/320px-ESPN_wordmark.svg.png" group-title="⚽ ESPN",ESPN Extra HD [Opción 1]
+http://23.153.217.158:8080/986618457tv1/g4p2r9/15262
+#EXTINF:-1 tvg-id="espnextra" tvg-name="ESPN Extra HD [Opción 2]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/320px-ESPN_wordmark.svg.png" group-title="⚽ ESPN",ESPN Extra HD [Opción 2]
+http://23.153.217.158:8080/986618457tv1/g4p2r9/27159
+
+# ================== ⚽ FOX SPORTS ==================
+
+#EXTINF:-1 tvg-id="foxsports1.cl" tvg-name="Fox Sports 1 Chile HD [Opción 1]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Fox_Sports_logo.svg/320px-Fox_Sports_logo.svg.png" group-title="⚽ FOX SPORTS",Fox Sports 1 Chile HD [Opción 1]
+http://23.153.217.158:8080/986618457tv1/g4p2r9/456
+#EXTINF:-1 tvg-id="foxsports1.cl" tvg-name="Fox Sports 1 Chile HD [Opción 2]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Fox_Sports_logo.svg/320px-Fox_Sports_logo.svg.png" group-title="⚽ FOX SPORTS",Fox Sports 1 Chile HD [Opción 2]
+http://23.153.217.158:8080/986618457tv1/g4p2r9/457
+#EXTINF:-1 tvg-id="foxsports2.cl" tvg-name="Fox Sports 2 Chile HD [Opción 1]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Fox_Sports_logo.svg/320px-Fox_Sports_logo.svg.png" group-title="⚽ FOX SPORTS",Fox Sports 2 Chile HD [Opción 1]
+http://23.153.217.158:8080/986618457tv1/g4p2r9/529
+#EXTINF:-1 tvg-id="foxsports2.cl" tvg-name="Fox Sports 2 Chile HD [Opción 2]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Fox_Sports_logo.svg/320px-Fox_Sports_logo.svg.png" group-title="⚽ FOX SPORTS",Fox Sports 2 Chile HD [Opción 2]
+http://23.153.217.158:8080/986618457tv1/g4p2r9/531
+#EXTINF:-1 tvg-id="foxsports3.cl" tvg-name="Fox Sports 3 Chile HD [Opción 1]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Fox_Sports_logo.svg/320px-Fox_Sports_logo.svg.png" group-title="⚽ FOX SPORTS",Fox Sports 3 Chile HD [Opción 1]
+http://23.153.217.158:8080/986618457tv1/g4p2r9/455
+#EXTINF:-1 tvg-id="foxsports3.cl" tvg-name="Fox Sports 3 Chile HD [Opción 2]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Fox_Sports_logo.svg/320px-Fox_Sports_logo.svg.png" group-title="⚽ FOX SPORTS",Fox Sports 3 Chile HD [Opción 2]
+http://23.153.217.158:8080/986618457tv1/g4p2r9/537
+#EXTINF:-1 tvg-id="foxsportspremium" tvg-name="Fox Sports Premium HD [Opción 1]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Fox_Sports_logo.svg/320px-Fox_Sports_logo.svg.png" group-title="⚽ FOX SPORTS",Fox Sports Premium HD [Opción 1]
+http://23.153.217.158:8080/986618457tv1/g4p2r9/16161
+#EXTINF:-1 tvg-id="foxsportspremium" tvg-name="Fox Sports Premium HD [Opción 2]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Fox_Sports_logo.svg/320px-Fox_Sports_logo.svg.png" group-title="⚽ FOX SPORTS",Fox Sports Premium HD [Opción 2]
+http://23.153.217.158:8080/986618457tv1/g4p2r9/24775
