@@ -1,10 +1,10 @@
-#EXTM3U x-tvg-url="" version="v1.0.3" build="3"
+#EXTM3U x-tvg-url="" version="v1.0.4" build="4"
 # ========================================================
 # LISTA DEPORTES - GENERADA AUTOMATICAMENTE POR ROBOT IPTV
 # Formato: 1 Canal Oficial + 5 Respaldos (#BACKUP_X:)
-# Version: v1.0.3 (Build #3)
-# Actualizado: 2026-11-23 23:14:11
-# Hash: f09083b8
+# Version: v1.0.4 (Build #4)
+# Actualizado: 2026-11-24 03:57:51
+# Hash: 941eb832
 # ========================================================
 
 
@@ -12,27 +12,81 @@
 
 #EXTINF:-1 tvg-id="dsports.cl" tvg-name="DSPORTS Chile HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/DSports_logo.png/320px-DSports_logo.png" group-title="⚽ DIRECTV SPORTS",DSPORTS Chile HD
 http://23.153.217.158:8080/986618457tv1/g4p2r9/481
-#BACKUP_1: http://starlatino.tv:8880/ayanez/DWyjHSkpPzb4/564941
-#BACKUP_2: http://starlatino.tv:8880/Marcelocanto12/Q8hmB4bdyVnP/564941
-#BACKUP_3: http://superxlatino.com:8880/2Gx96299540/rFAhCVCBtqVz/564941
-#BACKUP_4: http://superxlatino.com:8880/Natali.A/wdAzVSdCdbgx/564941
-#BACKUP_5: http://23.153.217.158:8080/986618457tv1/g4p2r9/465
+#BACKUP_1: http://23.153.217.158:8080/986618457tv1/g4p2r9/465
 
 #EXTINF:-1 tvg-id="dsports2.cl" tvg-name="DSPORTS 2 Chile HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/DSports_logo.png/320px-DSports_logo.png" group-title="⚽ DIRECTV SPORTS",DSPORTS 2 Chile HD
 http://23.153.217.158:8080/986618457tv1/g4p2r9/464
-#BACKUP_1: http://starlatino.tv:8880/ayanez/DWyjHSkpPzb4/564939
-#BACKUP_2: http://starlatino.tv:8880/Marcelocanto12/Q8hmB4bdyVnP/564939
-#BACKUP_3: http://superxlatino.com:8880/2Gx96299540/rFAhCVCBtqVz/564939
-#BACKUP_4: http://superxlatino.com:8880/Natali.A/wdAzVSdCdbgx/564939
+#BACKUP_1: http://starlatino.tv:8880/ayanez/DWyjHSkpPzb4/564945
+#BACKUP_2: http://starlatino.tv:8880/Marcelocanto12/Q8hmB4bdyVnP/564945
+#BACKUP_3: http://superxlatino.com:8880/2Gx96299540/rFAhCVCBtqVz/564945
+#BACKUP_4: http://superxlatino.com:8880/Natali.A/wdAzVSdCdbgx/564945
 #BACKUP_5: http://23.153.217.158:8080/986618457tv1/g4p2r9/478
 
 #EXTINF:-1 tvg-id="dsportsplus.cl" tvg-name="DSPORTS+ Chile HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/DSports_logo.png/320px-DSports_logo.png" group-title="⚽ DIRECTV SPORTS",DSPORTS+ Chile HD
 http://23.153.217.158:8080/986618457tv1/g4p2r9/472
+#BACKUP_1: http://starlatino.tv:8880/ayanez/DWyjHSkpPzb4/564946
+#BACKUP_2: http://starlatino.tv:8880/Marcelocanto12/Q8hmB4bdyVnP/564946
+#BACKUP_3: http://superxlatino.com:8880/2Gx96299540/rFAhCVCBtqVz/564946
+#BACKUP_4: http://superxlatino.com:8880/Natali.A/wdAzVSdCdbgx/564946
+#BACKUP_5: http://23.153.217.158:8080/986618457tv1/g4p2r9/469
+
+#EXTINF:-1 tvg-id="dsports.ar" tvg-name="DSPORTS Argentina HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/DSports_logo.png/320px-DSports_logo.png" group-title="⚽ DIRECTV SPORTS",DSPORTS Argentina HD
+http://23.153.217.158:8080/986618457tv1/g4p2r9/480
+#BACKUP_1: http://23.153.217.158:8080/986618457tv1/g4p2r9/483
+
+#EXTINF:-1 tvg-id="dsports2.ar" tvg-name="DSPORTS 2 Argentina HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/DSports_logo.png/320px-DSports_logo.png" group-title="⚽ DIRECTV SPORTS",DSPORTS 2 Argentina HD
+http://23.153.217.158:8080/986618457tv1/g4p2r9/473
+#BACKUP_1: http://starlatino.tv:8880/ayanez/DWyjHSkpPzb4/564939
+#BACKUP_2: http://starlatino.tv:8880/Marcelocanto12/Q8hmB4bdyVnP/564939
+#BACKUP_3: http://superxlatino.com:8880/2Gx96299540/rFAhCVCBtqVz/564939
+#BACKUP_4: http://superxlatino.com:8880/Natali.A/wdAzVSdCdbgx/564939
+#BACKUP_5: http://23.153.217.158:8080/986618457tv1/g4p2r9/474
+
+#EXTINF:-1 tvg-id="dsportsplus.ar" tvg-name="DSPORTS+ Argentina HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/DSports_logo.png/320px-DSports_logo.png" group-title="⚽ DIRECTV SPORTS",DSPORTS+ Argentina HD
+http://23.153.217.158:8080/986618457tv1/g4p2r9/467
 #BACKUP_1: http://starlatino.tv:8880/ayanez/DWyjHSkpPzb4/564940
 #BACKUP_2: http://starlatino.tv:8880/Marcelocanto12/Q8hmB4bdyVnP/564940
 #BACKUP_3: http://superxlatino.com:8880/2Gx96299540/rFAhCVCBtqVz/564940
 #BACKUP_4: http://superxlatino.com:8880/Natali.A/wdAzVSdCdbgx/564940
-#BACKUP_5: http://23.153.217.158:8080/986618457tv1/g4p2r9/469
+#BACKUP_5: http://23.153.217.158:8080/986618457tv1/g4p2r9/466
+
+#EXTINF:-1 tvg-id="dsports.co" tvg-name="DSPORTS Colombia HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/DSports_logo.png/320px-DSports_logo.png" group-title="⚽ DIRECTV SPORTS",DSPORTS Colombia HD
+http://23.153.217.158:8080/986618457tv1/g4p2r9/482
+#BACKUP_1: http://starlatino.tv:8880/ayanez/DWyjHSkpPzb4/564947
+#BACKUP_2: http://starlatino.tv:8880/Marcelocanto12/Q8hmB4bdyVnP/564947
+#BACKUP_3: http://superxlatino.com:8880/2Gx96299540/rFAhCVCBtqVz/564947
+#BACKUP_4: http://superxlatino.com:8880/Natali.A/wdAzVSdCdbgx/564947
+#BACKUP_5: http://23.153.217.158:8080/986618457tv1/g4p2r9/485
+
+#EXTINF:-1 tvg-id="dsports2.co" tvg-name="DSPORTS 2 Colombia HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/DSports_logo.png/320px-DSports_logo.png" group-title="⚽ DIRECTV SPORTS",DSPORTS 2 Colombia HD
+http://23.153.217.158:8080/986618457tv1/g4p2r9/476
+
+#EXTINF:-1 tvg-id="dsportsplus.co" tvg-name="DSPORTS+ Colombia HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/DSports_logo.png/320px-DSports_logo.png" group-title="⚽ DIRECTV SPORTS",DSPORTS+ Colombia HD
+http://23.153.217.158:8080/986618457tv1/g4p2r9/470
+
+#EXTINF:-1 tvg-id="dsports.pe" tvg-name="DSPORTS Perú HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/DSports_logo.png/320px-DSports_logo.png" group-title="⚽ DIRECTV SPORTS",DSPORTS Perú HD
+http://23.153.217.158:8080/986618457tv1/g4p2r9/479
+#BACKUP_1: http://starlatino.tv:8880/ayanez/DWyjHSkpPzb4/564941
+#BACKUP_2: http://starlatino.tv:8880/Marcelocanto12/Q8hmB4bdyVnP/564941
+#BACKUP_3: http://superxlatino.com:8880/2Gx96299540/rFAhCVCBtqVz/564941
+#BACKUP_4: http://superxlatino.com:8880/Natali.A/wdAzVSdCdbgx/564941
+#BACKUP_5: http://23.153.217.158:8080/986618457tv1/g4p2r9/471
+
+#EXTINF:-1 tvg-id="dsports2.pe" tvg-name="DSPORTS 2 Perú HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/DSports_logo.png/320px-DSports_logo.png" group-title="⚽ DIRECTV SPORTS",DSPORTS 2 Perú HD
+http://23.153.217.158:8080/986618457tv1/g4p2r9/477
+#BACKUP_1: http://starlatino.tv:8880/ayanez/DWyjHSkpPzb4/564942
+#BACKUP_2: http://starlatino.tv:8880/Marcelocanto12/Q8hmB4bdyVnP/564942
+#BACKUP_3: http://superxlatino.com:8880/2Gx96299540/rFAhCVCBtqVz/564942
+#BACKUP_4: http://superxlatino.com:8880/Natali.A/wdAzVSdCdbgx/564942
+#BACKUP_5: http://23.153.217.158:8080/986618457tv1/g4p2r9/316
+
+#EXTINF:-1 tvg-id="dsportsplus.pe" tvg-name="DSPORTS+ Perú HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/DSports_logo.png/320px-DSports_logo.png" group-title="⚽ DIRECTV SPORTS",DSPORTS+ Perú HD
+http://23.153.217.158:8080/986618457tv1/g4p2r9/471
+#BACKUP_1: http://starlatino.tv:8880/ayanez/DWyjHSkpPzb4/564943
+#BACKUP_2: http://starlatino.tv:8880/Marcelocanto12/Q8hmB4bdyVnP/564943
+#BACKUP_3: http://superxlatino.com:8880/2Gx96299540/rFAhCVCBtqVz/564943
+#BACKUP_4: http://superxlatino.com:8880/Natali.A/wdAzVSdCdbgx/564943
+#BACKUP_5: http://23.153.217.158:8080/986618457tv1/g4p2r9/315
 
 #EXTINF:-1 tvg-id="dsportsfight" tvg-name="DSPORTS Fight HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/DSports_logo.png/320px-DSports_logo.png" group-title="⚽ DIRECTV SPORTS",DSPORTS Fight HD
 http://23.153.217.158:8080/986618457tv1/g4p2r9/20350
