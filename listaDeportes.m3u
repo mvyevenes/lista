@@ -1,151 +1,79 @@
-#EXTM3U x-tvg-url="" version="v1.0.6" build="7"
+#EXTM3U x-tvg-url="" version="v1.0.7" build="8"
 # ========================================================
 # LISTA DEPORTES - GENERADA AUTOMATICAMENTE POR ROBOT IPTV
 # Formato: 1 Canal Oficial + 5 Respaldos (#BACKUP_X:)
-# Version: v1.0.6 (Build #7)
-# Actualizado: 2026-11-24 16:00:32
-# Hash: b442a08e
+# Version: v1.0.7 (Build #8)
+# Actualizado: 2026-11-25 00:45:22
+# Hash: 4c1d1514
 # ========================================================
-
-
-# ================== ⚽ DIRECTV SPORTS ==================
-
-#EXTINF:-1 tvg-id="dsports.cl" tvg-name="DSPORTS Chile HD" tvg-logo="https://raw.githubusercontent.com/mvyevenes/lista/main/logos/dsports.png" group-title="⚽ DIRECTV SPORTS",DSPORTS Chile HD
-http://23.153.217.158:8080/05claudiovergaraPS/n1V5EZ1JcSj5/465
-#BACKUP_1: http://23.153.217.158:8080/05claudiovergaraPS/n1V5EZ1JcSj5/481
-
-#EXTINF:-1 tvg-id="dsports2.cl" tvg-name="DSPORTS 2 Chile HD" tvg-logo="https://raw.githubusercontent.com/mvyevenes/lista/main/logos/dsports2.png" group-title="⚽ DIRECTV SPORTS",DSPORTS 2 Chile HD
-http://23.153.217.158:8080/05claudiovergaraPS/n1V5EZ1JcSj5/464
-#BACKUP_1: http://23.153.217.158:8080/05claudiovergaraPS/n1V5EZ1JcSj5/478
-
-#EXTINF:-1 tvg-id="dsportsplus.cl" tvg-name="DSPORTS+ Chile HD" tvg-logo="https://raw.githubusercontent.com/mvyevenes/lista/main/logos/dsports_plus.png" group-title="⚽ DIRECTV SPORTS",DSPORTS+ Chile HD
-http://23.153.217.158:8080/05claudiovergaraPS/n1V5EZ1JcSj5/472
-#BACKUP_1: http://23.153.217.158:8080/05claudiovergaraPS/n1V5EZ1JcSj5/469
-
-#EXTINF:-1 tvg-id="dsports.ar" tvg-name="DSPORTS Argentina HD" tvg-logo="https://raw.githubusercontent.com/mvyevenes/lista/main/logos/dsports.png" group-title="⚽ DIRECTV SPORTS",DSPORTS Argentina HD
-http://23.153.217.158:8080/05claudiovergaraPS/n1V5EZ1JcSj5/480
-#BACKUP_1: http://23.153.217.158:8080/05claudiovergaraPS/n1V5EZ1JcSj5/483
-
-#EXTINF:-1 tvg-id="dsports2.ar" tvg-name="DSPORTS 2 Argentina HD" tvg-logo="https://raw.githubusercontent.com/mvyevenes/lista/main/logos/dsports2.png" group-title="⚽ DIRECTV SPORTS",DSPORTS 2 Argentina HD
-http://23.153.217.158:8080/05claudiovergaraPS/n1V5EZ1JcSj5/473
-#BACKUP_1: http://23.153.217.158:8080/05claudiovergaraPS/n1V5EZ1JcSj5/474
-
-#EXTINF:-1 tvg-id="dsportsplus.ar" tvg-name="DSPORTS+ Argentina HD" tvg-logo="https://raw.githubusercontent.com/mvyevenes/lista/main/logos/dsports_plus.png" group-title="⚽ DIRECTV SPORTS",DSPORTS+ Argentina HD
-http://23.153.217.158:8080/05claudiovergaraPS/n1V5EZ1JcSj5/467
-#BACKUP_1: http://23.153.217.158:8080/05claudiovergaraPS/n1V5EZ1JcSj5/466
-
-#EXTINF:-1 tvg-id="dsports.co" tvg-name="DSPORTS Colombia HD" tvg-logo="https://raw.githubusercontent.com/mvyevenes/lista/main/logos/dsports.png" group-title="⚽ DIRECTV SPORTS",DSPORTS Colombia HD
-http://23.153.217.158:8080/05claudiovergaraPS/n1V5EZ1JcSj5/482
-#BACKUP_1: http://23.153.217.158:8080/05claudiovergaraPS/n1V5EZ1JcSj5/485
-
-#EXTINF:-1 tvg-id="dsports2.co" tvg-name="DSPORTS 2 Colombia HD" tvg-logo="https://raw.githubusercontent.com/mvyevenes/lista/main/logos/dsports2.png" group-title="⚽ DIRECTV SPORTS",DSPORTS 2 Colombia HD
-http://23.153.217.158:8080/05claudiovergaraPS/n1V5EZ1JcSj5/476
-
-#EXTINF:-1 tvg-id="dsportsplus.co" tvg-name="DSPORTS+ Colombia HD" tvg-logo="https://raw.githubusercontent.com/mvyevenes/lista/main/logos/dsports_plus.png" group-title="⚽ DIRECTV SPORTS",DSPORTS+ Colombia HD
-http://23.153.217.158:8080/05claudiovergaraPS/n1V5EZ1JcSj5/472
-#BACKUP_1: http://23.153.217.158:8080/05claudiovergaraPS/n1V5EZ1JcSj5/470
-
-#EXTINF:-1 tvg-id="dsports.pe" tvg-name="DSPORTS Perú HD" tvg-logo="https://raw.githubusercontent.com/mvyevenes/lista/main/logos/dsports.png" group-title="⚽ DIRECTV SPORTS",DSPORTS Perú HD
-http://23.153.217.158:8080/05claudiovergaraPS/n1V5EZ1JcSj5/479
-#BACKUP_1: http://23.153.217.158:8080/05claudiovergaraPS/n1V5EZ1JcSj5/471
-
-#EXTINF:-1 tvg-id="dsports2.pe" tvg-name="DSPORTS 2 Perú HD" tvg-logo="https://raw.githubusercontent.com/mvyevenes/lista/main/logos/dsports2.png" group-title="⚽ DIRECTV SPORTS",DSPORTS 2 Perú HD
-http://23.153.217.158:8080/05claudiovergaraPS/n1V5EZ1JcSj5/477
-#BACKUP_1: http://23.153.217.158:8080/05claudiovergaraPS/n1V5EZ1JcSj5/316
-
-#EXTINF:-1 tvg-id="dsportsplus.pe" tvg-name="DSPORTS+ Perú HD" tvg-logo="https://raw.githubusercontent.com/mvyevenes/lista/main/logos/dsports_plus.png" group-title="⚽ DIRECTV SPORTS",DSPORTS+ Perú HD
-http://23.153.217.158:8080/05claudiovergaraPS/n1V5EZ1JcSj5/471
-#BACKUP_1: http://23.153.217.158:8080/05claudiovergaraPS/n1V5EZ1JcSj5/315
-
-#EXTINF:-1 tvg-id="dsportsfight" tvg-name="DSPORTS Fight HD" tvg-logo="https://raw.githubusercontent.com/mvyevenes/lista/main/logos/dsports_fight.png" group-title="⚽ DIRECTV SPORTS",DSPORTS Fight HD
-http://23.153.217.158:8080/05claudiovergaraPS/n1V5EZ1JcSj5/20350
 
 
 # ================== ⚽ ESPN ==================
 
-#EXTINF:-1 tvg-id="espn.cl" tvg-name="ESPN Chile HD" tvg-logo="https://raw.githubusercontent.com/mvyevenes/lista/main/logos/espn.png" group-title="⚽ ESPN",ESPN Chile HD
-http://23.153.217.158:8080/05claudiovergaraPS/n1V5EZ1JcSj5/501
-#BACKUP_1: http://23.153.217.158:8080/05claudiovergaraPS/n1V5EZ1JcSj5/502
-
-#EXTINF:-1 tvg-id="espn2.cl" tvg-name="ESPN 2 Chile HD" tvg-logo="https://raw.githubusercontent.com/mvyevenes/lista/main/logos/espn2.png" group-title="⚽ ESPN",ESPN 2 Chile HD
-http://23.153.217.158:8080/05claudiovergaraPS/n1V5EZ1JcSj5/452
-#BACKUP_1: http://23.153.217.158:8080/05claudiovergaraPS/n1V5EZ1JcSj5/503
-
-#EXTINF:-1 tvg-id="espn3.cl" tvg-name="ESPN 3 Chile HD" tvg-logo="https://raw.githubusercontent.com/mvyevenes/lista/main/logos/espn3.png" group-title="⚽ ESPN",ESPN 3 Chile HD
-http://23.153.217.158:8080/05claudiovergaraPS/n1V5EZ1JcSj5/512
-
 #EXTINF:-1 tvg-id="espn4" tvg-name="ESPN 4 HD" tvg-logo="https://raw.githubusercontent.com/mvyevenes/lista/main/logos/espn4.png" group-title="⚽ ESPN",ESPN 4 HD
-http://23.153.217.158:8080/05claudiovergaraPS/n1V5EZ1JcSj5/517
-#BACKUP_1: http://31.43.191.125:8080/A.Mulder/1234/1311
-#BACKUP_2: http://31.43.191.125:8080/vip6861789055774/88d8c345cd9d/1311
-#BACKUP_3: http://dejatedemamadas.neospaxy.top:8080/9681764179108392/0cfdcd4c80c2/10671
-#BACKUP_4: http://dejatedemamadas.neospaxy.top:8080/97172700864740/61738959416841/10671
-#BACKUP_5: http://neospaxy.top:8080/4261732454997621/48786731a841/10671
-
-#EXTINF:-1 tvg-id="espn5" tvg-name="ESPN 5 HD" tvg-logo="https://raw.githubusercontent.com/mvyevenes/lista/main/logos/espn5.png" group-title="⚽ ESPN",ESPN 5 HD
-http://23.153.217.158:8080/05claudiovergaraPS/n1V5EZ1JcSj5/526
-#BACKUP_1: http://23.153.217.158:8080/05claudiovergaraPS/n1V5EZ1JcSj5/527
+http://31.43.191.125:8080/A.Mulder/1234/1311
+#BACKUP_1: http://31.43.191.125:8080/vip6861789055774/88d8c345cd9d/1311
+#BACKUP_2: http://dejatedemamadas.neospaxy.top:8080/9681764179108392/0cfdcd4c80c2/10671
+#BACKUP_3: http://dejatedemamadas.neospaxy.top:8080/97172700864740/61738959416841/10671
+#BACKUP_4: http://neospaxy.top:8080/4261732454997621/48786731a841/10671
+#BACKUP_5: http://neospaxy.top:8080/8141768508294/fa788c17cffa/10671
 
 #EXTINF:-1 tvg-id="espn6" tvg-name="ESPN 6 HD" tvg-logo="https://raw.githubusercontent.com/mvyevenes/lista/main/logos/espn6.png" group-title="⚽ ESPN",ESPN 6 HD
-http://23.153.217.158:8080/05claudiovergaraPS/n1V5EZ1JcSj5/539
-#BACKUP_1: http://31.43.191.125:8080/A.Mulder/1234/134005
-#BACKUP_2: http://31.43.191.125:8080/vip6861789055774/88d8c345cd9d/134005
-#BACKUP_3: http://dejatedemamadas.neospaxy.top:8080/9681764179108392/0cfdcd4c80c2/58822
-#BACKUP_4: http://dejatedemamadas.neospaxy.top:8080/97172700864740/61738959416841/58822
-#BACKUP_5: http://neospaxy.top:8080/4261732454997621/48786731a841/58822
-
-#EXTINF:-1 tvg-id="espn7" tvg-name="ESPN 7 HD" tvg-logo="https://raw.githubusercontent.com/mvyevenes/lista/main/logos/espn7.png" group-title="⚽ ESPN",ESPN 7 HD
-http://23.153.217.158:8080/05claudiovergaraPS/n1V5EZ1JcSj5/453
-#BACKUP_1: http://23.153.217.158:8080/05claudiovergaraPS/n1V5EZ1JcSj5/454
+http://31.43.191.125:8080/A.Mulder/1234/134005
+#BACKUP_1: http://31.43.191.125:8080/vip6861789055774/88d8c345cd9d/134005
+#BACKUP_2: http://dejatedemamadas.neospaxy.top:8080/9681764179108392/0cfdcd4c80c2/58822
+#BACKUP_3: http://dejatedemamadas.neospaxy.top:8080/97172700864740/61738959416841/58822
+#BACKUP_4: http://neospaxy.top:8080/4261732454997621/48786731a841/58822
+#BACKUP_5: http://neospaxy.top:8080/8141768508294/fa788c17cffa/58822
 
 #EXTINF:-1 tvg-id="espnpremium" tvg-name="ESPN Premium HD" tvg-logo="https://raw.githubusercontent.com/mvyevenes/lista/main/logos/espn_premium.png" group-title="⚽ ESPN",ESPN Premium HD
-http://23.153.217.158:8080/05claudiovergaraPS/n1V5EZ1JcSj5/542
-#BACKUP_1: http://31.43.191.125:8080/A.Mulder/1234/4828
-#BACKUP_2: http://31.43.191.125:8080/vip6861789055774/88d8c345cd9d/4828
-#BACKUP_3: http://dejatedemamadas.neospaxy.top:8080/9681764179108392/0cfdcd4c80c2/52470
-#BACKUP_4: http://dejatedemamadas.neospaxy.top:8080/97172700864740/61738959416841/52470
-#BACKUP_5: http://neospaxy.top:8080/4261732454997621/48786731a841/52470
+http://31.43.191.125:8080/A.Mulder/1234/4828
+#BACKUP_1: http://31.43.191.125:8080/vip6861789055774/88d8c345cd9d/4828
+#BACKUP_2: http://dejatedemamadas.neospaxy.top:8080/9681764179108392/0cfdcd4c80c2/52470
+#BACKUP_3: http://dejatedemamadas.neospaxy.top:8080/97172700864740/61738959416841/52470
+#BACKUP_4: http://neospaxy.top:8080/4261732454997621/48786731a841/52470
+#BACKUP_5: http://neospaxy.top:8080/8141768508294/fa788c17cffa/52470
 
 #EXTINF:-1 tvg-id="espnextra" tvg-name="ESPN Extra HD" tvg-logo="https://raw.githubusercontent.com/mvyevenes/lista/main/logos/espn_extra.png" group-title="⚽ ESPN",ESPN Extra HD
-http://23.153.217.158:8080/05claudiovergaraPS/n1V5EZ1JcSj5/15262
-#BACKUP_1: http://31.43.191.125:8080/A.Mulder/1234/4760
-#BACKUP_2: http://31.43.191.125:8080/vip6861789055774/88d8c345cd9d/4760
-#BACKUP_3: http://dejatedemamadas.neospaxy.top:8080/9681764179108392/0cfdcd4c80c2/50796
-#BACKUP_4: http://dejatedemamadas.neospaxy.top:8080/97172700864740/61738959416841/50796
-#BACKUP_5: http://neospaxy.top:8080/4261732454997621/48786731a841/10012
+http://31.43.191.125:8080/A.Mulder/1234/4760
+#BACKUP_1: http://31.43.191.125:8080/vip6861789055774/88d8c345cd9d/4760
+#BACKUP_2: http://dejatedemamadas.neospaxy.top:8080/9681764179108392/0cfdcd4c80c2/50796
+#BACKUP_3: http://dejatedemamadas.neospaxy.top:8080/97172700864740/61738959416841/50796
+#BACKUP_4: http://neospaxy.top:8080/4261732454997621/48786731a841/10012
+#BACKUP_5: http://neospaxy.top:8080/8141768508294/fa788c17cffa/50796
 
 
 # ================== ⚽ FOX SPORTS ==================
 
 #EXTINF:-1 tvg-id="foxsports1.cl" tvg-name="Fox Sports 1 Chile HD" tvg-logo="https://raw.githubusercontent.com/mvyevenes/lista/main/logos/foxsports1.png" group-title="⚽ FOX SPORTS",Fox Sports 1 Chile HD
-http://23.153.217.158:8080/05claudiovergaraPS/n1V5EZ1JcSj5/456
-#BACKUP_1: http://31.43.191.125:8080/A.Mulder/1234/4764
-#BACKUP_2: http://31.43.191.125:8080/vip6861789055774/88d8c345cd9d/4764
-#BACKUP_3: http://dejatedemamadas.neospaxy.top:8080/9681764179108392/0cfdcd4c80c2/9982
-#BACKUP_4: http://dejatedemamadas.neospaxy.top:8080/97172700864740/61738959416841/9982
-#BACKUP_5: http://neospaxy.top:8080/4261732454997621/48786731a841/9982
+http://31.43.191.125:8080/A.Mulder/1234/4764
+#BACKUP_1: http://31.43.191.125:8080/vip6861789055774/88d8c345cd9d/4764
+#BACKUP_2: http://dejatedemamadas.neospaxy.top:8080/9681764179108392/0cfdcd4c80c2/9982
+#BACKUP_3: http://dejatedemamadas.neospaxy.top:8080/97172700864740/61738959416841/9982
+#BACKUP_4: http://neospaxy.top:8080/4261732454997621/48786731a841/9982
+#BACKUP_5: http://neospaxy.top:8080/8141768508294/fa788c17cffa/9982
 
 #EXTINF:-1 tvg-id="foxsports2.cl" tvg-name="Fox Sports 2 Chile HD" tvg-logo="https://raw.githubusercontent.com/mvyevenes/lista/main/logos/foxsports2.png" group-title="⚽ FOX SPORTS",Fox Sports 2 Chile HD
-http://23.153.217.158:8080/05claudiovergaraPS/n1V5EZ1JcSj5/529
-#BACKUP_1: http://31.43.191.125:8080/A.Mulder/1234/4765
-#BACKUP_2: http://31.43.191.125:8080/vip6861789055774/88d8c345cd9d/4765
-#BACKUP_3: http://dejatedemamadas.neospaxy.top:8080/9681764179108392/0cfdcd4c80c2/10708
-#BACKUP_4: http://dejatedemamadas.neospaxy.top:8080/97172700864740/61738959416841/10708
-#BACKUP_5: http://neospaxy.top:8080/4261732454997621/48786731a841/10708
+http://31.43.191.125:8080/A.Mulder/1234/4765
+#BACKUP_1: http://31.43.191.125:8080/vip6861789055774/88d8c345cd9d/4765
+#BACKUP_2: http://dejatedemamadas.neospaxy.top:8080/9681764179108392/0cfdcd4c80c2/10708
+#BACKUP_3: http://dejatedemamadas.neospaxy.top:8080/97172700864740/61738959416841/10708
+#BACKUP_4: http://neospaxy.top:8080/4261732454997621/48786731a841/10708
+#BACKUP_5: http://neospaxy.top:8080/8141768508294/fa788c17cffa/10708
 
 #EXTINF:-1 tvg-id="foxsports3.cl" tvg-name="Fox Sports 3 Chile HD" tvg-logo="https://raw.githubusercontent.com/mvyevenes/lista/main/logos/foxsports3.png" group-title="⚽ FOX SPORTS",Fox Sports 3 Chile HD
-http://23.153.217.158:8080/05claudiovergaraPS/n1V5EZ1JcSj5/455
-#BACKUP_1: http://31.43.191.125:8080/A.Mulder/1234/4766
-#BACKUP_2: http://31.43.191.125:8080/vip6861789055774/88d8c345cd9d/4766
-#BACKUP_3: http://dejatedemamadas.neospaxy.top:8080/9681764179108392/0cfdcd4c80c2/10084
-#BACKUP_4: http://dejatedemamadas.neospaxy.top:8080/97172700864740/61738959416841/10084
-#BACKUP_5: http://neospaxy.top:8080/4261732454997621/48786731a841/10084
+http://31.43.191.125:8080/A.Mulder/1234/4766
+#BACKUP_1: http://31.43.191.125:8080/vip6861789055774/88d8c345cd9d/4766
+#BACKUP_2: http://dejatedemamadas.neospaxy.top:8080/9681764179108392/0cfdcd4c80c2/10084
+#BACKUP_3: http://dejatedemamadas.neospaxy.top:8080/97172700864740/61738959416841/10084
+#BACKUP_4: http://neospaxy.top:8080/4261732454997621/48786731a841/10084
+#BACKUP_5: http://neospaxy.top:8080/8141768508294/fa788c17cffa/10084
 
 #EXTINF:-1 tvg-id="foxsportspremium" tvg-name="Fox Sports Premium HD" tvg-logo="https://raw.githubusercontent.com/mvyevenes/lista/main/logos/foxsports_premium.png" group-title="⚽ FOX SPORTS",Fox Sports Premium HD
-http://23.153.217.158:8080/05claudiovergaraPS/n1V5EZ1JcSj5/16161
-#BACKUP_1: http://31.43.191.125:8080/A.Mulder/1234/4767
-#BACKUP_2: http://31.43.191.125:8080/vip6861789055774/88d8c345cd9d/4767
-#BACKUP_3: http://dejatedemamadas.neospaxy.top:8080/9681764179108392/0cfdcd4c80c2/9981
-#BACKUP_4: http://dejatedemamadas.neospaxy.top:8080/97172700864740/61738959416841/9981
-#BACKUP_5: http://neospaxy.top:8080/4261732454997621/48786731a841/9981
+http://31.43.191.125:8080/A.Mulder/1234/4767
+#BACKUP_1: http://31.43.191.125:8080/vip6861789055774/88d8c345cd9d/4767
+#BACKUP_2: http://dejatedemamadas.neospaxy.top:8080/9681764179108392/0cfdcd4c80c2/9981
+#BACKUP_3: http://dejatedemamadas.neospaxy.top:8080/97172700864740/61738959416841/9981
+#BACKUP_4: http://neospaxy.top:8080/4261732454997621/48786731a841/9981
+#BACKUP_5: http://neospaxy.top:8080/8141768508294/fa788c17cffa/9981
 
