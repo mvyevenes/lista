@@ -1,79 +1,70 @@
-#EXTM3U x-tvg-url="" version="v1.0.7" build="8"
+#EXTM3U x-tvg-url="" version="v1.0.5" build="6"
 # ========================================================
 # LISTA DEPORTES - GENERADA AUTOMATICAMENTE POR ROBOT IPTV
 # Formato: 1 Canal Oficial + 5 Respaldos (#BACKUP_X:)
-# Version: v1.0.7 (Build #8)
-# Actualizado: 2026-11-25 00:45:22
-# Hash: 4c1d1514
+# Version: v1.0.5 (Build #6)
+# Actualizado: 2026-11-25 04:47:08
+# Hash: be6fb1f5
 # ========================================================
 
 
 # ================== ⚽ ESPN ==================
 
 #EXTINF:-1 tvg-id="espn4" tvg-name="ESPN 4 HD" tvg-logo="https://raw.githubusercontent.com/mvyevenes/lista/main/logos/espn4.png" group-title="⚽ ESPN",ESPN 4 HD
-http://31.43.191.125:8080/A.Mulder/1234/1311
-#BACKUP_1: http://31.43.191.125:8080/vip6861789055774/88d8c345cd9d/1311
-#BACKUP_2: http://dejatedemamadas.neospaxy.top:8080/9681764179108392/0cfdcd4c80c2/10671
-#BACKUP_3: http://dejatedemamadas.neospaxy.top:8080/97172700864740/61738959416841/10671
-#BACKUP_4: http://neospaxy.top:8080/4261732454997621/48786731a841/10671
-#BACKUP_5: http://neospaxy.top:8080/8141768508294/fa788c17cffa/10671
+http://dejatedemamadas.neospaxy.top:8080/9681764179108392/0cfdcd4c80c2/10671
+#BACKUP_1: http://neospaxy.top:8080/4261732454997621/48786731a841/10671
+#BACKUP_2: http://neospaxy.top:8080/8141768508294/fa788c17cffa/10671
+#BACKUP_3: http://dejatedemamadas.neospaxy.top:8080/9681764179108392/0cfdcd4c80c2/9874
+#BACKUP_4: http://neospaxy.top:8080/4261732454997621/48786731a841/9874
+#BACKUP_5: http://neospaxy.top:8080/8141768508294/fa788c17cffa/9874
 
 #EXTINF:-1 tvg-id="espn6" tvg-name="ESPN 6 HD" tvg-logo="https://raw.githubusercontent.com/mvyevenes/lista/main/logos/espn6.png" group-title="⚽ ESPN",ESPN 6 HD
-http://31.43.191.125:8080/A.Mulder/1234/134005
-#BACKUP_1: http://31.43.191.125:8080/vip6861789055774/88d8c345cd9d/134005
-#BACKUP_2: http://dejatedemamadas.neospaxy.top:8080/9681764179108392/0cfdcd4c80c2/58822
-#BACKUP_3: http://dejatedemamadas.neospaxy.top:8080/97172700864740/61738959416841/58822
-#BACKUP_4: http://neospaxy.top:8080/4261732454997621/48786731a841/58822
-#BACKUP_5: http://neospaxy.top:8080/8141768508294/fa788c17cffa/58822
+http://dejatedemamadas.neospaxy.top:8080/9681764179108392/0cfdcd4c80c2/58822
+#BACKUP_1: http://neospaxy.top:8080/4261732454997621/48786731a841/58822
+#BACKUP_2: http://neospaxy.top:8080/8141768508294/fa788c17cffa/58822
 
 #EXTINF:-1 tvg-id="espnpremium" tvg-name="ESPN Premium HD" tvg-logo="https://raw.githubusercontent.com/mvyevenes/lista/main/logos/espn_premium.png" group-title="⚽ ESPN",ESPN Premium HD
-http://31.43.191.125:8080/A.Mulder/1234/4828
-#BACKUP_1: http://31.43.191.125:8080/vip6861789055774/88d8c345cd9d/4828
-#BACKUP_2: http://dejatedemamadas.neospaxy.top:8080/9681764179108392/0cfdcd4c80c2/52470
-#BACKUP_3: http://dejatedemamadas.neospaxy.top:8080/97172700864740/61738959416841/52470
-#BACKUP_4: http://neospaxy.top:8080/4261732454997621/48786731a841/52470
-#BACKUP_5: http://neospaxy.top:8080/8141768508294/fa788c17cffa/52470
+http://dejatedemamadas.neospaxy.top:8080/9681764179108392/0cfdcd4c80c2/52470
+#BACKUP_1: http://neospaxy.top:8080/4261732454997621/48786731a841/52470
+#BACKUP_2: http://neospaxy.top:8080/8141768508294/fa788c17cffa/52470
 
 #EXTINF:-1 tvg-id="espnextra" tvg-name="ESPN Extra HD" tvg-logo="https://raw.githubusercontent.com/mvyevenes/lista/main/logos/espn_extra.png" group-title="⚽ ESPN",ESPN Extra HD
-http://31.43.191.125:8080/A.Mulder/1234/4760
-#BACKUP_1: http://31.43.191.125:8080/vip6861789055774/88d8c345cd9d/4760
-#BACKUP_2: http://dejatedemamadas.neospaxy.top:8080/9681764179108392/0cfdcd4c80c2/50796
-#BACKUP_3: http://dejatedemamadas.neospaxy.top:8080/97172700864740/61738959416841/50796
-#BACKUP_4: http://neospaxy.top:8080/4261732454997621/48786731a841/10012
-#BACKUP_5: http://neospaxy.top:8080/8141768508294/fa788c17cffa/50796
+http://dejatedemamadas.neospaxy.top:8080/9681764179108392/0cfdcd4c80c2/50796
+#BACKUP_1: http://neospaxy.top:8080/4261732454997621/48786731a841/10012
+#BACKUP_2: http://neospaxy.top:8080/8141768508294/fa788c17cffa/50796
+#BACKUP_3: http://dejatedemamadas.neospaxy.top:8080/9681764179108392/0cfdcd4c80c2/10012
+#BACKUP_4: http://neospaxy.top:8080/4261732454997621/48786731a841/52525
+#BACKUP_5: http://neospaxy.top:8080/8141768508294/fa788c17cffa/10012
 
 
 # ================== ⚽ FOX SPORTS ==================
 
 #EXTINF:-1 tvg-id="foxsports1.cl" tvg-name="Fox Sports 1 Chile HD" tvg-logo="https://raw.githubusercontent.com/mvyevenes/lista/main/logos/foxsports1.png" group-title="⚽ FOX SPORTS",Fox Sports 1 Chile HD
-http://31.43.191.125:8080/A.Mulder/1234/4764
-#BACKUP_1: http://31.43.191.125:8080/vip6861789055774/88d8c345cd9d/4764
-#BACKUP_2: http://dejatedemamadas.neospaxy.top:8080/9681764179108392/0cfdcd4c80c2/9982
-#BACKUP_3: http://dejatedemamadas.neospaxy.top:8080/97172700864740/61738959416841/9982
-#BACKUP_4: http://neospaxy.top:8080/4261732454997621/48786731a841/9982
-#BACKUP_5: http://neospaxy.top:8080/8141768508294/fa788c17cffa/9982
+http://dejatedemamadas.neospaxy.top:8080/9681764179108392/0cfdcd4c80c2/9982
+#BACKUP_1: http://neospaxy.top:8080/4261732454997621/48786731a841/9982
+#BACKUP_2: http://neospaxy.top:8080/8141768508294/fa788c17cffa/9982
+#BACKUP_3: http://dejatedemamadas.neospaxy.top:8080/9681764179108392/0cfdcd4c80c2/52532
+#BACKUP_4: http://neospaxy.top:8080/4261732454997621/48786731a841/18714
+#BACKUP_5: http://neospaxy.top:8080/8141768508294/fa788c17cffa/52532
 
 #EXTINF:-1 tvg-id="foxsports2.cl" tvg-name="Fox Sports 2 Chile HD" tvg-logo="https://raw.githubusercontent.com/mvyevenes/lista/main/logos/foxsports2.png" group-title="⚽ FOX SPORTS",Fox Sports 2 Chile HD
-http://31.43.191.125:8080/A.Mulder/1234/4765
-#BACKUP_1: http://31.43.191.125:8080/vip6861789055774/88d8c345cd9d/4765
-#BACKUP_2: http://dejatedemamadas.neospaxy.top:8080/9681764179108392/0cfdcd4c80c2/10708
-#BACKUP_3: http://dejatedemamadas.neospaxy.top:8080/97172700864740/61738959416841/10708
-#BACKUP_4: http://neospaxy.top:8080/4261732454997621/48786731a841/10708
-#BACKUP_5: http://neospaxy.top:8080/8141768508294/fa788c17cffa/10708
+http://dejatedemamadas.neospaxy.top:8080/9681764179108392/0cfdcd4c80c2/10708
+#BACKUP_1: http://neospaxy.top:8080/4261732454997621/48786731a841/10708
+#BACKUP_2: http://neospaxy.top:8080/8141768508294/fa788c17cffa/10708
+#BACKUP_3: http://dejatedemamadas.neospaxy.top:8080/9681764179108392/0cfdcd4c80c2/71920
+#BACKUP_4: http://neospaxy.top:8080/4261732454997621/48786731a841/9983
+#BACKUP_5: http://neospaxy.top:8080/8141768508294/fa788c17cffa/71920
 
 #EXTINF:-1 tvg-id="foxsports3.cl" tvg-name="Fox Sports 3 Chile HD" tvg-logo="https://raw.githubusercontent.com/mvyevenes/lista/main/logos/foxsports3.png" group-title="⚽ FOX SPORTS",Fox Sports 3 Chile HD
-http://31.43.191.125:8080/A.Mulder/1234/4766
-#BACKUP_1: http://31.43.191.125:8080/vip6861789055774/88d8c345cd9d/4766
-#BACKUP_2: http://dejatedemamadas.neospaxy.top:8080/9681764179108392/0cfdcd4c80c2/10084
-#BACKUP_3: http://dejatedemamadas.neospaxy.top:8080/97172700864740/61738959416841/10084
-#BACKUP_4: http://neospaxy.top:8080/4261732454997621/48786731a841/10084
-#BACKUP_5: http://neospaxy.top:8080/8141768508294/fa788c17cffa/10084
+http://dejatedemamadas.neospaxy.top:8080/9681764179108392/0cfdcd4c80c2/10084
+#BACKUP_1: http://neospaxy.top:8080/4261732454997621/48786731a841/10084
+#BACKUP_2: http://neospaxy.top:8080/8141768508294/fa788c17cffa/10084
 
 #EXTINF:-1 tvg-id="foxsportspremium" tvg-name="Fox Sports Premium HD" tvg-logo="https://raw.githubusercontent.com/mvyevenes/lista/main/logos/foxsports_premium.png" group-title="⚽ FOX SPORTS",Fox Sports Premium HD
-http://31.43.191.125:8080/A.Mulder/1234/4767
-#BACKUP_1: http://31.43.191.125:8080/vip6861789055774/88d8c345cd9d/4767
-#BACKUP_2: http://dejatedemamadas.neospaxy.top:8080/9681764179108392/0cfdcd4c80c2/9981
-#BACKUP_3: http://dejatedemamadas.neospaxy.top:8080/97172700864740/61738959416841/9981
-#BACKUP_4: http://neospaxy.top:8080/4261732454997621/48786731a841/9981
-#BACKUP_5: http://neospaxy.top:8080/8141768508294/fa788c17cffa/9981
+http://dejatedemamadas.neospaxy.top:8080/9681764179108392/0cfdcd4c80c2/9981
+#BACKUP_1: http://neospaxy.top:8080/4261732454997621/48786731a841/9981
+#BACKUP_2: http://neospaxy.top:8080/8141768508294/fa788c17cffa/9981
+#BACKUP_3: http://dejatedemamadas.neospaxy.top:8080/9681764179108392/0cfdcd4c80c2/52603
+#BACKUP_4: http://neospaxy.top:8080/4261732454997621/48786731a841/52603
+#BACKUP_5: http://neospaxy.top:8080/8141768508294/fa788c17cffa/52603
 
