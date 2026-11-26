@@ -1,0 +1,33 @@
+#EXTM3U
+# ========================================================
+# LISTA 24/7 - SERIES Y PROGRAMAS CONTINUOS
+# Generado automáticamente por Robot IPTV
+# Actualizado: 2026-11-26 23:38:18
+# ========================================================
+
+# ================== 📺 Canales 24/7 ==================
+
+#EXTINF:-1 tvg-id="el-gallo-claudio-247.247" tvg-name="El Gallo Claudio 24/7" tvg-logo="https://www.chiletvapp.com/panel/uploads/mobile_6a6d57b814b90.jpg" group-title="📺 24/7 CANALES",El Gallo Claudio 24/7
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/347.m3u8
+
+#EXTINF:-1 tvg-id="bob-esponja-247.247" tvg-name="Bob Esponja 24/7" tvg-logo="https://www.chiletvapp.com/panel/uploads/mobile_6afa59666c35d.jpg" group-title="📺 24/7 CANALES",Bob Esponja 24/7
+https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8
+
+#EXTINF:-1 tvg-id="dragon-ball-247.247" tvg-name="Dragon Ball 24/7" tvg-logo="https://www.chiletvapp.com/panel/uploads/mobile_6a6aad50c2e79.jpg" group-title="📺 24/7 CANALES",Dragon Ball 24/7
+https://183.giatvcdn.com/ssh101/ssh101/dbslat/playlist.m3u8
+
+#EXTINF:-1 tvg-id="el-chavo-animado-247.247" tvg-name="El Chavo Animado 24/7" tvg-logo="https://www.chiletvapp.com/panel/uploads/mobile_6a8277aeb2f08.jpg" group-title="📺 24/7 CANALES",El Chavo Animado 24/7
+https://hls.chiletvapp.com/elchavo/stream.m3u8
+
+#EXTINF:-1 tvg-id="el-chavo-del-8-247.247" tvg-name="El Chavo del 8 (24/7)" tvg-logo="https://www.chiletvapp.com/panel/uploads/mobile_6a6aaa77b6c68.jpg" group-title="📺 24/7 CANALES",El Chavo del 8 (24/7)
+https://183.giatvcdn.com/giatvplayout7/giatv-211465/playlist.m3u8
+
+#EXTINF:-1 tvg-id="peliculas-mcu-247.247" tvg-name="Peliculas MCU 24/7" tvg-logo="https://www.chiletvapp.com/panel/uploads/mobile_6a6f7d749058d.jpg" group-title="📺 24/7 CANALES",Peliculas MCU 24/7
+https://183.giatvcdn.com/ssh101/ssh101/imcu/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tom-y-jerry-1940-2007-247.247" tvg-name="Tom y Jerry 1940 - 2007 - 24/7" tvg-logo="https://www.chiletvapp.com/panel/uploads/mobile_6ac503171f101.jpg" group-title="📺 24/7 CANALES",Tom y Jerry 1940 - 2007 - 24/7
+https://hls.chiletvapp.com/tomyjerry/stream.m3u8
+
+#EXTINF:-1 tvg-id="tom-y-jerry-tales.247" tvg-name="Tom y Jerry Tales" tvg-logo="https://www.chiletvapp.com/panel/uploads/mobile_6b02f5c609cc9.png" group-title="📺 24/7 CANALES",Tom y Jerry Tales
+https://183.giatvcdn.com/giatvplayout7/giatv-208314/playlist.m3u8
+
