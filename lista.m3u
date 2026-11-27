@@ -2,7 +2,7 @@
 # ========================================================
 # LISTA CHILE - CANALES COMPLEMENTARIOS Y CABLE
 # Generado automáticamente por Robot IPTV
-# Actualizado: 2026-11-27 16:44:04
+# Actualizado: 2026-11-27 17:06:17
 # ========================================================
 
 # ================== 🇨🇱 Chile ==================
@@ -34,9 +34,6 @@ http://astra.chiletvapp.com:9999/play/a0fq
 #EXTINF:-1 tvg-id="mega.cl" tvg-name="Mega" tvg-logo="https://www.chiletvapp.com/admin/uploads/mega.jpg" group-title="⭐️ CHILE  ",Mega
 https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?ChileTv
 
-#EXTINF:-1 tvg-id="tvn.cl" tvg-name="TVN" tvg-logo="https://www.chiletvapp.com/admin/uploads/chile_68b0eedccb10b.jpg" group-title="⭐️ CHILE  ",TVN
-http://45.173.231.22:8000/play/a06l/index.m3u8
-
 #EXTINF:-1 tvg-id="tvn-alternativa.cl" tvg-name="TVN (Alternativa)" tvg-logo="https://www.chiletvapp.com/panel/uploads/mobile_6a5bbdeab171d.jpg" group-title="⭐️ CHILE  ",TVN (Alternativa)
 http://45.4.3.177:9999/play/a0fr
 
@@ -64,9 +61,6 @@ https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?ChileTv
 #EXTINF:-1 tvg-id="meganoticias.cl" tvg-name="Meganoticias" tvg-logo="https://www.chiletvapp.com/admin/uploads/mobile_69e2d9dc6fc51.jpg" group-title="⭐️ CHILE  ",Meganoticias
 http://15.204.196.147:22880/MEGANOTICIA-MEGAMEDIA-EE.UU-PROVEEDOR/video.m3u8
 
-#EXTINF:-1 tvg-id="megatiempo.cl" tvg-name="Megatiempo" tvg-logo="https://www.chiletvapp.com/admin/uploads/mobile_69e2e47d022df.jpg" group-title="⭐️ CHILE  ",Megatiempo
-https://www.chiletvapp.com/online/embed/megatiempo.php
-
 #EXTINF:-1 tvg-id="tvn-3.cl" tvg-name="TVN 3" tvg-logo="https://www.chiletvapp.com/admin/uploads/tvn3.jpg" group-title="⭐️ CHILE  ",TVN 3
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
 
@@ -76,9 +70,6 @@ https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8?ChileTv
 #EXTINF:-1 tvg-id="ntv.cl" tvg-name="NTV" tvg-logo="https://www.chiletvapp.com/admin/uploads/chile_67e72406419c6.jpg" group-title="⭐️ CHILE  ",NTV
 https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
 
-#EXTINF:-1 tvg-id="13-cocina.cl" tvg-name="13 Cocina" tvg-logo="https://www.chiletvapp.com/admin/uploads/mobile_69b20c88a5fd6.png" group-title="⭐️ CHILE  ",13 Cocina
-https://redirector.dps.live/hls/13cocina/playlist.m3u8?ChileTv
-
 #EXTINF:-1 tvg-id="13-cultura.cl" tvg-name="13 Cultura" tvg-logo="https://www.chiletvapp.com/admin/uploads/chile_68313028d01fe.png" group-title="⭐️ CHILE  ",13 Cultura
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 
@@ -87,9 +78,6 @@ https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
 
 #EXTINF:-1 tvg-id="13-go.cl" tvg-name="13 Go" tvg-logo="https://www.chiletvapp.com/admin/uploads/mobile_69dc300869e64.jpg" group-title="⭐️ CHILE  ",13 Go
 https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8?ChileTv
-
-#EXTINF:-1 tvg-id="13-internacional.cl" tvg-name="13 Internacional" tvg-logo="https://www.chiletvapp.com/admin/uploads/mobile_69bc7cbbeb8e5.jpg" group-title="⭐️ CHILE  ",13 Internacional
-https://redirector.dps.live/hls/13intav/playlist.m3u8?ChileTv
 
 #EXTINF:-1 tvg-id="13-kids.cl" tvg-name="13 Kids" tvg-logo="https://www.chiletvapp.com/panel/uploads/mobile_6a959c39e22fc.jpg" group-title="⭐️ CHILE  ",13 Kids
 https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
@@ -106,14 +94,8 @@ https://tv-mgmt.gtd.cl/bpk-tv/RECHD/default/index.m3u8
 #EXTINF:-1 tvg-id="13-teleseries.cl" tvg-name="13 Teleseries" tvg-logo="https://www.chiletvapp.com/admin/uploads/chile_67d5f27bca274.png" group-title="⭐️ CHILE  ",13 Teleseries
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 
-#EXTINF:-1 tvg-id="13-viajes.cl" tvg-name="13 Viajes" tvg-logo="https://www.chiletvapp.com/panel/uploads/mobile_6a5adde791d81.jpg" group-title="⭐️ CHILE  ",13 Viajes
-https://origin.dpsgo.com/ssai/event/3hCyW0rZSnawRZcTVlr_iw/master.m3u8
-
 #EXTINF:-1 tvg-id="13c.cl" tvg-name="13c" tvg-logo="https://www.chiletvapp.com/panel/uploads/mobile_6a6e48afab70b.jpg" group-title="⭐️ CHILE  ",13c
 http://astra.chiletvapp.com:9999/play/13c
-
-#EXTINF:-1 tvg-id="deportes13.cl" tvg-name="Deportes13" tvg-logo="https://www.chiletvapp.com/admin/uploads/chile_67d623b793456.png" group-title="⭐️ CHILE  ",Deportes13
-https://origin.dpsgo.com/ssai/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8
 
 #EXTINF:-1 tvg-id="t13.cl" tvg-name="T13" tvg-logo="https://www.chiletvapp.com/admin/uploads/chile_67b91e9352a6f.png" group-title="⭐️ CHILE  ",T13
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8?ChileTv
@@ -132,9 +114,6 @@ https://unlimited2-cl-isp.dps.live/cm/cm.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="carolina-tv.cl" tvg-name="Carolina TV" tvg-logo="https://www.chiletvapp.com/admin/uploads/chile_67d628bc49d52.jpg" group-title="⭐️ CHILE  ",Carolina TV
 https://mdstrm.com/live-stream-playlist/63a06468117f42713374addd.m3u8
-
-#EXTINF:-1 tvg-id="carolina-tv-2.cl" tvg-name="Carolina TV 2" tvg-logo="https://www.chiletvapp.com/admin/uploads/chile_67d628fa94b06.jpg" group-title="⭐️ CHILE  ",Carolina TV 2
-https://jireh-1-hls-video-cl-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/carolinatv2/carolinatv2.smil/playlist.m3u8?ChileTV
 
 #EXTINF:-1 tvg-id="fm-plus.cl" tvg-name="FM Plus" tvg-logo="https://www.chiletvapp.com/panel/uploads/mobile_6abd92446cd4c.jpg" group-title="⭐️ CHILE  ",FM Plus
 https://v2.tustreaming.cl/fmplus/index.m3u8
