@@ -2,7 +2,7 @@
 # ========================================================
 # LISTA CHILE - CANALES COMPLEMENTARIOS Y CABLE
 # Generado automáticamente por Robot IPTV
-# Actualizado: 2026-11-26 23:38:18
+# Actualizado: 2026-11-27 01:09:31
 # ========================================================
 
 # ================== 🇨🇱 Chile ==================
@@ -12,6 +12,48 @@ http://superxlatino.com:8880/franco92372028/dbm9YKwtTwe4/273734
 
 #EXTINF:-1 tvg-id="viax.cl" tvg-name="VIA X HD" tvg-logo="http://redworld.pro:8880/images/5c73b6b860ce69ede2f755625889a0ab.png" group-title="⭐️ CHILE  ",VIA X HD
 http://superxlatino.com:8880/franco92372028/dbm9YKwtTwe4/298545
+
+#EXTINF:-1 tvg-id="canal-13.cl" tvg-name="Canal 13" tvg-logo="https://www.chiletvapp.com/admin/uploads/mobile_690ea6038c9f9.jpg" group-title="⭐️ CHILE  ",Canal 13
+https://redirector.dps.live/hls/13cl/playlist.m3u8?ChileTv
+
+#EXTINF:-1 tvg-id="chv.cl" tvg-name="CHV" tvg-logo="https://www.chiletvapp.com/admin/uploads/chile_68b2650ad7084.jpg" group-title="⭐️ CHILE  ",CHV
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="la-red-sd.cl" tvg-name="La Red (SD)" tvg-logo="https://www.chiletvapp.com/panel/uploads/mobile_6a8e51d6e814b.jpg" group-title="⭐️ CHILE  ",La Red (SD)
+http://astra.chiletvapp.com:9999/play/a0fq
+
+#EXTINF:-1 tvg-id="mega.cl" tvg-name="Mega" tvg-logo="https://www.chiletvapp.com/admin/uploads/mega.jpg" group-title="⭐️ CHILE  ",Mega
+https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?ChileTv
+
+#EXTINF:-1 tvg-id="tvn.cl" tvg-name="TVN" tvg-logo="https://www.chiletvapp.com/admin/uploads/chile_68b0eedccb10b.jpg" group-title="⭐️ CHILE  ",TVN
+http://45.173.231.22:8000/play/a06l/index.m3u8
+
+#EXTINF:-1 tvg-id="tvn-alternativa.cl" tvg-name="TVN (Alternativa)" tvg-logo="https://www.chiletvapp.com/panel/uploads/mobile_6a5bbdeab171d.jpg" group-title="⭐️ CHILE  ",TVN (Alternativa)
+http://45.4.3.177:9999/play/a0fr
+
+#EXTINF:-1 tvg-id="chv-deportes.cl" tvg-name="CHV Deportes" tvg-logo="https://www.chiletvapp.com/admin/uploads/chile_68c74e1e4fed3.jpg" group-title="⭐️ CHILE  ",CHV Deportes
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvdeportes/chvdeportes.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="chv-noticias.cl" tvg-name="CHV Noticias" tvg-logo="https://www.chiletvapp.com/admin/uploads/mobile_68d0798b2f7f7.jpeg" group-title="⭐️ CHILE  ",CHV Noticias
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/chvn/chvn.smil/playlist.m3u8?ChileTv
+
+#EXTINF:-1 tvg-id="la-red.cl" tvg-name="La Red" tvg-logo="https://www.chiletvapp.com/admin/uploads/mobile_69113f374f129.jpg" group-title="⭐️ CHILE  ",La Red
+https://clbpktstvhls-1.clarovideo.com/bpk-tv/LAREDHD/hls_fk/index.m3u8
+
+#EXTINF:-1 tvg-id="la-red-alternativa.cl" tvg-name="La Red (Alternativa)" tvg-logo="https://www.chiletvapp.com/panel/uploads/mobile_6a69637382937.jpg" group-title="⭐️ CHILE  ",La Red (Alternativa)
+https://tv-mgmt.gtd.cl/bpk-tv/LARED/default/index.m3u8
+
+#EXTINF:-1 tvg-id="mega-2.cl" tvg-name="Mega 2" tvg-logo="https://www.chiletvapp.com/admin/uploads/mobile_682dd7df3eb42.jpg" group-title="⭐️ CHILE  ",Mega 2
+http://astra.chiletvapp.com:9999/play/a0f5
+
+#EXTINF:-1 tvg-id="mega-ficcion.cl" tvg-name="Mega Ficción" tvg-logo="https://www.chiletvapp.com/admin/uploads/mobile_68d082aa18cb6.png" group-title="⭐️ CHILE  ",Mega Ficción
+http://15.204.196.147:22880/MEGAFICCION-MEGAMEDIA-EE.UU-PROVEEDOR/index.m3u8
+
+#EXTINF:-1 tvg-id="tv.cl" tvg-name="TV +" tvg-logo="https://www.chiletvapp.com/admin/uploads/chile_67f1b85ce6e94.jpg" group-title="⭐️ CHILE  ",TV +
+https://jireh-11-hls-video-cl-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tvn-3.cl" tvg-name="TVN 3" tvg-logo="https://www.chiletvapp.com/admin/uploads/tvn3.jpg" group-title="⭐️ CHILE  ",TVN 3
+https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
 
 #EXTINF:-1 tvg-id="24-horas.cl" tvg-name="24 Horas" tvg-logo="https://www.chiletvapp.com/admin/uploads/24horas.jpg" group-title="⭐️ CHILE  ",24 Horas
 https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8?ChileTv
@@ -64,23 +106,11 @@ https://mdstrm.com/live-stream-playlist/63a06468117f42713374addd.m3u8
 #EXTINF:-1 tvg-id="carolina-tv-2.cl" tvg-name="Carolina TV 2" tvg-logo="https://www.chiletvapp.com/admin/uploads/chile_67d628fa94b06.jpg" group-title="⭐️ CHILE  ",Carolina TV 2
 https://jireh-1-hls-video-cl-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/carolinatv2/carolinatv2.smil/playlist.m3u8?ChileTV
 
-#EXTINF:-1 tvg-id="chv-deportes.cl" tvg-name="CHV Deportes" tvg-logo="https://www.chiletvapp.com/admin/uploads/chile_68c74e1e4fed3.jpg" group-title="⭐️ CHILE  ",CHV Deportes
-https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvdeportes/chvdeportes.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="chv-noticias.cl" tvg-name="CHV Noticias" tvg-logo="https://www.chiletvapp.com/admin/uploads/mobile_68d0798b2f7f7.jpeg" group-title="⭐️ CHILE  ",CHV Noticias
-https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/chvn/chvn.smil/playlist.m3u8?ChileTv
-
 #EXTINF:-1 tvg-id="deportes13.cl" tvg-name="Deportes13" tvg-logo="https://www.chiletvapp.com/admin/uploads/chile_67d623b793456.png" group-title="⭐️ CHILE  ",Deportes13
 https://origin.dpsgo.com/ssai/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8
 
 #EXTINF:-1 tvg-id="fm-plus.cl" tvg-name="FM Plus" tvg-logo="https://www.chiletvapp.com/panel/uploads/mobile_6abd92446cd4c.jpg" group-title="⭐️ CHILE  ",FM Plus
 https://v2.tustreaming.cl/fmplus/index.m3u8
-
-#EXTINF:-1 tvg-id="mega-2.cl" tvg-name="Mega 2" tvg-logo="https://www.chiletvapp.com/admin/uploads/mobile_682dd7df3eb42.jpg" group-title="⭐️ CHILE  ",Mega 2
-http://astra.chiletvapp.com:9999/play/a0f5
-
-#EXTINF:-1 tvg-id="mega-ficcion.cl" tvg-name="Mega Ficción" tvg-logo="https://www.chiletvapp.com/admin/uploads/mobile_68d082aa18cb6.png" group-title="⭐️ CHILE  ",Mega Ficción
-http://15.204.196.147:22880/MEGAFICCION-MEGAMEDIA-EE.UU-PROVEEDOR/index.m3u8
 
 #EXTINF:-1 tvg-id="meganoticias.cl" tvg-name="Meganoticias" tvg-logo="https://www.chiletvapp.com/admin/uploads/mobile_69e2d9dc6fc51.jpg" group-title="⭐️ CHILE  ",Meganoticias
 http://15.204.196.147:22880/MEGANOTICIA-MEGAMEDIA-EE.UU-PROVEEDOR/video.m3u8
@@ -93,9 +123,6 @@ https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd
 
 #EXTINF:-1 tvg-id="t13-radio.cl" tvg-name="T13 Radio" tvg-logo="https://www.chiletvapp.com/admin/uploads/chile_67d5ede5e9baa.jpg" group-title="⭐️ CHILE  ",T13 Radio
 https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist.m3u8?ChileTv
-
-#EXTINF:-1 tvg-id="tvn-3.cl" tvg-name="TVN 3" tvg-logo="https://www.chiletvapp.com/admin/uploads/tvn3.jpg" group-title="⭐️ CHILE  ",TVN 3
-https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
 
 #EXTINF:-1 tvg-id="ucv-2.cl" tvg-name="UCV 2" tvg-logo="https://www.chiletvapp.com/admin/uploads/mobile_67d6208c5793b.png" group-title="⭐️ CHILE  ",UCV 2
 https://unlimited1-cl-isp.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8
