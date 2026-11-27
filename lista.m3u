@@ -2,7 +2,7 @@
 # ========================================================
 # LISTA CHILE - CANALES COMPLEMENTARIOS Y CABLE
 # Generado automáticamente por Robot IPTV
-# Actualizado: 2026-11-27 17:06:17
+# Actualizado: 2026-11-27 18:08:17
 # ========================================================
 
 # ================== 🇨🇱 Chile ==================
@@ -114,6 +114,9 @@ https://unlimited2-cl-isp.dps.live/cm/cm.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="carolina-tv.cl" tvg-name="Carolina TV" tvg-logo="https://www.chiletvapp.com/admin/uploads/chile_67d628bc49d52.jpg" group-title="⭐️ CHILE  ",Carolina TV
 https://mdstrm.com/live-stream-playlist/63a06468117f42713374addd.m3u8
+
+#EXTINF:-1 tvg-id="carolina-tv-2.cl" tvg-name="Carolina TV 2" tvg-logo="https://www.chiletvapp.com/admin/uploads/chile_67d628fa94b06.jpg" group-title="⭐️ CHILE  ",Carolina TV 2
+https://jireh-1-hls-video-cl-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/carolinatv2/carolinatv2.smil/playlist.m3u8?ChileTV
 
 #EXTINF:-1 tvg-id="fm-plus.cl" tvg-name="FM Plus" tvg-logo="https://www.chiletvapp.com/panel/uploads/mobile_6abd92446cd4c.jpg" group-title="⭐️ CHILE  ",FM Plus
 https://v2.tustreaming.cl/fmplus/index.m3u8
