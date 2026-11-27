@@ -8,10 +8,14 @@
 # ================== 🇨🇱 Chile ==================
 
 #EXTINF:-1 tvg-id="zonalatina.cl" tvg-name="ZONA LATINA" tvg-logo="http://redworld.pro:8880/images/5a4b9fa350eb60818dfbde5f9d849c3d.png" group-title="⭐️ CHILE  ",ZONA LATINA
-http://superxlatino.com:8880/franco92372028/dbm9YKwtTwe4/273734
+http://23.153.217.158:8080/05claudiovergaraPS/n1V5EZ1JcSj5/75
+#BACKUP_1: http://23.153.217.158:8080/05claudiovergaraPS/n1V5EZ1JcSj5/57270
 
 #EXTINF:-1 tvg-id="viax.cl" tvg-name="VIA X HD" tvg-logo="http://redworld.pro:8880/images/5c73b6b860ce69ede2f755625889a0ab.png" group-title="⭐️ CHILE  ",VIA X HD
-http://superxlatino.com:8880/franco92372028/dbm9YKwtTwe4/298545
+http://23.153.217.158:8080/05claudiovergaraPS/n1V5EZ1JcSj5/64
+#BACKUP_1: http://23.153.217.158:8080/05claudiovergaraPS/n1V5EZ1JcSj5/63
+#BACKUP_2: http://23.153.217.158:8080/05claudiovergaraPS/n1V5EZ1JcSj5/57275
+#BACKUP_3: hhttp://23.153.217.158:8080/05claudiovergaraPS/n1V5EZ1JcSj5/57276
 
 #EXTINF:-1 tvg-id="canal-13.cl" tvg-name="Canal 13" tvg-logo="https://www.chiletvapp.com/admin/uploads/mobile_690ea6038c9f9.jpg" group-title="⭐️ CHILE  ",Canal 13
 https://redirector.dps.live/hls/13cl/playlist.m3u8?ChileTv
