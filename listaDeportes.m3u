@@ -1,24 +1,24 @@
-#EXTM3U x-tvg-url="" version="v1.0.11" build="12"
+#EXTM3U x-tvg-url="" version="v1.0.12" build="13"
 # ========================================================
 # LISTA DEPORTES - GENERADA AUTOMATICAMENTE POR ROBOT IPTV
 # Formato: 1 Canal Oficial + 10 Respaldos (#BACKUP_X:)
-# Version: v1.0.11 (Build #12)
-# Actualizado: 2026-11-27 16:44:00
-# Hash: aaddb0e8
+# Version: v1.0.12 (Build #13)
+# Actualizado: 2026-11-27 17:06:12
+# Hash: d77bf825
 # ========================================================
 
 
 # ================== ⚽ DIRECTV SPORTS ==================
 
 #EXTINF:-1 tvg-id="dsports.cl" tvg-name="DSPORTS Chile HD" tvg-logo="https://raw.githubusercontent.com/mvyevenes/lista/main/logos/dsports.png" group-title="⚽ DIRECTV SPORTS",DSPORTS Chile HD
-http://dejatedemamadas.neospaxy.top:8080/4811735406266638/2d481b91d9f3/10083
-#BACKUP_1: http://dejatedemamadas.neospaxy.top:8080/3541717342673167/27bc2766868a/10083
-#BACKUP_2: http://starlatino.tv:8880/4782/WctmTSGdLQGW/569238
-#BACKUP_3: http://superxlatino.com:8880/Paulo2025/GdS2rrsxyuyH/569238
-#BACKUP_4: http://superxlatino.com:8880/9CBnFc3PNKga/jMyVtHnzzERR/569238
-#BACKUP_5: http://starlatino.tv:8880/Vxtream0052/LT5FewGv9aKA/569238
-#BACKUP_6: http://redworld.pro:8880/Hugomilanca23/nBHgLydNfnzB/569238
-#BACKUP_7: http://redworld.pro:8880/cristina88382819@/EG6LMFNfTaGJ/569238
+http://starlatino.tv:8880/4782/WctmTSGdLQGW/569238
+#BACKUP_1: http://superxlatino.com:8880/Paulo2025/GdS2rrsxyuyH/569238
+#BACKUP_2: http://superxlatino.com:8880/9CBnFc3PNKga/jMyVtHnzzERR/569238
+#BACKUP_3: http://starlatino.tv:8880/Vxtream0052/LT5FewGv9aKA/569238
+#BACKUP_4: http://redworld.pro:8880/Hugomilanca23/nBHgLydNfnzB/569238
+#BACKUP_5: http://redworld.pro:8880/cristina88382819@/EG6LMFNfTaGJ/569238
+#BACKUP_6: http://dejatedemamadas.neospaxy.top:8080/3541717342673167/27bc2766868a/10083
+#BACKUP_7: http://dejatedemamadas.neospaxy.top:8080/4811735406266638/2d481b91d9f3/10083
 #BACKUP_8: http://31.43.191.125:8080/VIP0188169099617407/e6417a7e53b4/4748
 #BACKUP_9: http://31.43.191.125:8080/VIP012221741062784362/6a8530675061/4748
 #BACKUP_10: http://31.43.191.125:8080/VIP0188169099617407/e6417a7e53b4/4749
@@ -26,10 +26,10 @@ http://dejatedemamadas.neospaxy.top:8080/4811735406266638/2d481b91d9f3/10083
 #EXTINF:-1 tvg-id="dsports2.cl" tvg-name="DSPORTS 2 Chile HD" tvg-logo="https://raw.githubusercontent.com/mvyevenes/lista/main/logos/dsports2.png" group-title="⚽ DIRECTV SPORTS",DSPORTS 2 Chile HD
 http://starlatino.tv:8880/4782/WctmTSGdLQGW/564939
 #BACKUP_1: http://superxlatino.com:8880/Paulo2025/GdS2rrsxyuyH/564939
-#BACKUP_2: http://superxlatino.com:8880/9CBnFc3PNKga/jMyVtHnzzERR/564939
+#BACKUP_2: http://superxlatino.com:8880/9CBnFc3PNKga/jMyVtHnzzERR/564942
 #BACKUP_3: http://starlatino.tv:8880/Vxtream0052/LT5FewGv9aKA/564939
 #BACKUP_4: http://redworld.pro:8880/Hugomilanca23/nBHgLydNfnzB/564939
-#BACKUP_5: http://redworld.pro:8880/cristina88382819@/EG6LMFNfTaGJ/564939
+#BACKUP_5: http://redworld.pro:8880/cristina88382819@/EG6LMFNfTaGJ/564942
 #BACKUP_6: http://31.43.191.125:8080/VIP0188169099617407/e6417a7e53b4/4750
 #BACKUP_7: http://31.43.191.125:8080/VIP012221741062784362/6a8530675061/4750
 #BACKUP_8: http://dejatedemamadas.neospaxy.top:8080/3541717342673167/27bc2766868a/10082
@@ -39,32 +39,32 @@ http://starlatino.tv:8880/4782/WctmTSGdLQGW/564939
 #EXTINF:-1 tvg-id="dsportsplus.cl" tvg-name="DSPORTS+ Chile HD" tvg-logo="https://raw.githubusercontent.com/mvyevenes/lista/main/logos/dsports_plus.png" group-title="⚽ DIRECTV SPORTS",DSPORTS+ Chile HD
 http://starlatino.tv:8880/4782/WctmTSGdLQGW/564946
 #BACKUP_1: http://superxlatino.com:8880/Paulo2025/GdS2rrsxyuyH/564946
-#BACKUP_2: http://superxlatino.com:8880/9CBnFc3PNKga/jMyVtHnzzERR/564946
-#BACKUP_3: http://starlatino.tv:8880/Vxtream0052/LT5FewGv9aKA/564946
-#BACKUP_4: http://redworld.pro:8880/Hugomilanca23/nBHgLydNfnzB/564946
-#BACKUP_5: http://redworld.pro:8880/cristina88382819@/EG6LMFNfTaGJ/564946
+#BACKUP_2: http://starlatino.tv:8880/Vxtream0052/LT5FewGv9aKA/564946
+#BACKUP_3: http://redworld.pro:8880/Hugomilanca23/nBHgLydNfnzB/564946
+#BACKUP_4: http://redworld.pro:8880/cristina88382819@/EG6LMFNfTaGJ/564946
+#BACKUP_5: http://superxlatino.com:8880/9CBnFc3PNKga/jMyVtHnzzERR/564946
 
 #EXTINF:-1 tvg-id="dsports2.ar" tvg-name="DSPORTS 2 Argentina HD" tvg-logo="https://raw.githubusercontent.com/mvyevenes/lista/main/logos/dsports2.png" group-title="⚽ DIRECTV SPORTS",DSPORTS 2 Argentina HD
 http://starlatino.tv:8880/4782/WctmTSGdLQGW/564939
 #BACKUP_1: http://superxlatino.com:8880/Paulo2025/GdS2rrsxyuyH/564939
-#BACKUP_2: http://superxlatino.com:8880/9CBnFc3PNKga/jMyVtHnzzERR/564939
-#BACKUP_3: http://starlatino.tv:8880/Vxtream0052/LT5FewGv9aKA/564939
-#BACKUP_4: http://redworld.pro:8880/Hugomilanca23/nBHgLydNfnzB/564939
+#BACKUP_2: http://starlatino.tv:8880/Vxtream0052/LT5FewGv9aKA/564939
+#BACKUP_3: http://redworld.pro:8880/Hugomilanca23/nBHgLydNfnzB/564939
+#BACKUP_4: http://superxlatino.com:8880/9CBnFc3PNKga/jMyVtHnzzERR/564939
 #BACKUP_5: http://redworld.pro:8880/cristina88382819@/EG6LMFNfTaGJ/564939
 
 #EXTINF:-1 tvg-id="dsportsplus.ar" tvg-name="DSPORTS+ Argentina HD" tvg-logo="https://raw.githubusercontent.com/mvyevenes/lista/main/logos/dsports_plus.png" group-title="⚽ DIRECTV SPORTS",DSPORTS+ Argentina HD
-http://starlatino.tv:8880/4782/WctmTSGdLQGW/564940
-#BACKUP_1: http://superxlatino.com:8880/Paulo2025/GdS2rrsxyuyH/564940
-#BACKUP_2: http://superxlatino.com:8880/9CBnFc3PNKga/jMyVtHnzzERR/564940
-#BACKUP_3: http://starlatino.tv:8880/Vxtream0052/LT5FewGv9aKA/564940
-#BACKUP_4: http://redworld.pro:8880/Hugomilanca23/nBHgLydNfnzB/564940
-#BACKUP_5: http://redworld.pro:8880/cristina88382819@/EG6LMFNfTaGJ/564940
+http://superxlatino.com:8880/9CBnFc3PNKga/jMyVtHnzzERR/564940
+#BACKUP_1: http://starlatino.tv:8880/Vxtream0052/LT5FewGv9aKA/564940
+#BACKUP_2: http://redworld.pro:8880/cristina88382819@/EG6LMFNfTaGJ/564940
+#BACKUP_3: http://starlatino.tv:8880/4782/WctmTSGdLQGW/564940
+#BACKUP_4: http://superxlatino.com:8880/Paulo2025/GdS2rrsxyuyH/564940
+#BACKUP_5: http://redworld.pro:8880/Hugomilanca23/nBHgLydNfnzB/564940
 
 #EXTINF:-1 tvg-id="dsports.co" tvg-name="DSPORTS Colombia HD" tvg-logo="https://raw.githubusercontent.com/mvyevenes/lista/main/logos/dsports.png" group-title="⚽ DIRECTV SPORTS",DSPORTS Colombia HD
-http://superxlatino.com:8880/9CBnFc3PNKga/jMyVtHnzzERR/564947
-#BACKUP_1: http://starlatino.tv:8880/Vxtream0052/LT5FewGv9aKA/564947
-#BACKUP_2: http://starlatino.tv:8880/4782/WctmTSGdLQGW/564947
-#BACKUP_3: http://superxlatino.com:8880/Paulo2025/GdS2rrsxyuyH/564947
+http://starlatino.tv:8880/4782/WctmTSGdLQGW/564947
+#BACKUP_1: http://superxlatino.com:8880/Paulo2025/GdS2rrsxyuyH/564947
+#BACKUP_2: http://superxlatino.com:8880/9CBnFc3PNKga/jMyVtHnzzERR/564947
+#BACKUP_3: http://starlatino.tv:8880/Vxtream0052/LT5FewGv9aKA/564947
 #BACKUP_4: http://redworld.pro:8880/Hugomilanca23/nBHgLydNfnzB/564947
 #BACKUP_5: http://redworld.pro:8880/cristina88382819@/EG6LMFNfTaGJ/564947
 
@@ -72,8 +72,8 @@ http://superxlatino.com:8880/9CBnFc3PNKga/jMyVtHnzzERR/564947
 http://starlatino.tv:8880/4782/WctmTSGdLQGW/564941
 #BACKUP_1: http://superxlatino.com:8880/Paulo2025/GdS2rrsxyuyH/564941
 #BACKUP_2: http://superxlatino.com:8880/9CBnFc3PNKga/jMyVtHnzzERR/564941
-#BACKUP_3: http://starlatino.tv:8880/Vxtream0052/LT5FewGv9aKA/564941
-#BACKUP_4: http://redworld.pro:8880/Hugomilanca23/nBHgLydNfnzB/564941
+#BACKUP_3: http://redworld.pro:8880/Hugomilanca23/nBHgLydNfnzB/564941
+#BACKUP_4: http://starlatino.tv:8880/Vxtream0052/LT5FewGv9aKA/564941
 #BACKUP_5: http://redworld.pro:8880/cristina88382819@/EG6LMFNfTaGJ/564941
 
 #EXTINF:-1 tvg-id="dsports2.pe" tvg-name="DSPORTS 2 Perú HD" tvg-logo="https://raw.githubusercontent.com/mvyevenes/lista/main/logos/dsports2.png" group-title="⚽ DIRECTV SPORTS",DSPORTS 2 Perú HD
@@ -87,10 +87,10 @@ http://starlatino.tv:8880/4782/WctmTSGdLQGW/564942
 #EXTINF:-1 tvg-id="dsportsplus.pe" tvg-name="DSPORTS+ Perú HD" tvg-logo="https://raw.githubusercontent.com/mvyevenes/lista/main/logos/dsports_plus.png" group-title="⚽ DIRECTV SPORTS",DSPORTS+ Perú HD
 http://starlatino.tv:8880/4782/WctmTSGdLQGW/564943
 #BACKUP_1: http://superxlatino.com:8880/Paulo2025/GdS2rrsxyuyH/564943
-#BACKUP_2: http://starlatino.tv:8880/Vxtream0052/LT5FewGv9aKA/564943
-#BACKUP_3: http://redworld.pro:8880/cristina88382819@/EG6LMFNfTaGJ/564943
-#BACKUP_4: http://superxlatino.com:8880/9CBnFc3PNKga/jMyVtHnzzERR/564943
-#BACKUP_5: http://redworld.pro:8880/Hugomilanca23/nBHgLydNfnzB/564943
+#BACKUP_2: http://superxlatino.com:8880/9CBnFc3PNKga/jMyVtHnzzERR/564943
+#BACKUP_3: http://starlatino.tv:8880/Vxtream0052/LT5FewGv9aKA/564943
+#BACKUP_4: http://redworld.pro:8880/Hugomilanca23/nBHgLydNfnzB/564943
+#BACKUP_5: http://redworld.pro:8880/cristina88382819@/EG6LMFNfTaGJ/564943
 
 
 # ================== ⚽ ESPN ==================
@@ -99,38 +99,38 @@ http://starlatino.tv:8880/4782/WctmTSGdLQGW/564943
 http://starlatino.tv:8880/4782/WctmTSGdLQGW/533395
 #BACKUP_1: http://superxlatino.com:8880/Paulo2025/GdS2rrsxyuyH/533395
 #BACKUP_2: http://superxlatino.com:8880/9CBnFc3PNKga/jMyVtHnzzERR/533395
-#BACKUP_3: http://starlatino.tv:8880/Vxtream0052/LT5FewGv9aKA/533395
-#BACKUP_4: http://redworld.pro:8880/Hugomilanca23/nBHgLydNfnzB/533395
+#BACKUP_3: http://redworld.pro:8880/Hugomilanca23/nBHgLydNfnzB/533395
+#BACKUP_4: http://starlatino.tv:8880/Vxtream0052/LT5FewGv9aKA/533395
 #BACKUP_5: http://redworld.pro:8880/cristina88382819@/EG6LMFNfTaGJ/533395
 
 #EXTINF:-1 tvg-id="espn3.cl" tvg-name="ESPN 3 Chile HD" tvg-logo="https://raw.githubusercontent.com/mvyevenes/lista/main/logos/espn3.png" group-title="⚽ ESPN",ESPN 3 Chile HD
-http://starlatino.tv:8880/4782/WctmTSGdLQGW/533398
-#BACKUP_1: http://superxlatino.com:8880/Paulo2025/GdS2rrsxyuyH/533398
-#BACKUP_2: http://superxlatino.com:8880/9CBnFc3PNKga/jMyVtHnzzERR/533398
-#BACKUP_3: http://starlatino.tv:8880/Vxtream0052/LT5FewGv9aKA/533398
-#BACKUP_4: http://redworld.pro:8880/Hugomilanca23/nBHgLydNfnzB/533398
+http://superxlatino.com:8880/Paulo2025/GdS2rrsxyuyH/533398
+#BACKUP_1: http://superxlatino.com:8880/9CBnFc3PNKga/jMyVtHnzzERR/533398
+#BACKUP_2: http://starlatino.tv:8880/Vxtream0052/LT5FewGv9aKA/533398
+#BACKUP_3: http://redworld.pro:8880/Hugomilanca23/nBHgLydNfnzB/533398
+#BACKUP_4: http://starlatino.tv:8880/4782/WctmTSGdLQGW/533398
 #BACKUP_5: http://redworld.pro:8880/cristina88382819@/EG6LMFNfTaGJ/533398
 
 #EXTINF:-1 tvg-id="espn4" tvg-name="ESPN 4 HD" tvg-logo="https://raw.githubusercontent.com/mvyevenes/lista/main/logos/espn4.png" group-title="⚽ ESPN",ESPN 4 HD
-http://starlatino.tv:8880/4782/WctmTSGdLQGW/564217
-#BACKUP_1: http://superxlatino.com:8880/9CBnFc3PNKga/jMyVtHnzzERR/564217
-#BACKUP_2: http://31.43.191.125:8080/VIP0188169099617407/e6417a7e53b4/1311
-#BACKUP_3: http://31.43.191.125:8080/VIP012221741062784362/6a8530675061/1311
-#BACKUP_4: http://dejatedemamadas.neospaxy.top:8080/3541717342673167/27bc2766868a/10671
-#BACKUP_5: http://dejatedemamadas.neospaxy.top:8080/4811735406266638/2d481b91d9f3/10671
-#BACKUP_6: http://superxlatino.com:8880/Paulo2025/GdS2rrsxyuyH/564217
+http://31.43.191.125:8080/VIP012221741062784362/6a8530675061/1311
+#BACKUP_1: http://31.43.191.125:8080/VIP0188169099617407/e6417a7e53b4/1311
+#BACKUP_2: http://dejatedemamadas.neospaxy.top:8080/3541717342673167/27bc2766868a/10671
+#BACKUP_3: http://dejatedemamadas.neospaxy.top:8080/4811735406266638/2d481b91d9f3/10671
+#BACKUP_4: http://starlatino.tv:8880/4782/WctmTSGdLQGW/564217
+#BACKUP_5: http://superxlatino.com:8880/Paulo2025/GdS2rrsxyuyH/564217
+#BACKUP_6: http://superxlatino.com:8880/9CBnFc3PNKga/jMyVtHnzzERR/564217
 #BACKUP_7: http://starlatino.tv:8880/Vxtream0052/LT5FewGv9aKA/564217
 #BACKUP_8: http://redworld.pro:8880/Hugomilanca23/nBHgLydNfnzB/564217
 #BACKUP_9: http://redworld.pro:8880/cristina88382819@/EG6LMFNfTaGJ/564217
 #BACKUP_10: http://dejatedemamadas.neospaxy.top:8080/3541717342673167/27bc2766868a/9874
 
 #EXTINF:-1 tvg-id="espn6" tvg-name="ESPN 6 HD" tvg-logo="https://raw.githubusercontent.com/mvyevenes/lista/main/logos/espn6.png" group-title="⚽ ESPN",ESPN 6 HD
-http://starlatino.tv:8880/4782/WctmTSGdLQGW/418592
-#BACKUP_1: http://superxlatino.com:8880/Paulo2025/GdS2rrsxyuyH/418592
-#BACKUP_2: http://superxlatino.com:8880/9CBnFc3PNKga/jMyVtHnzzERR/418592
-#BACKUP_3: http://starlatino.tv:8880/Vxtream0052/LT5FewGv9aKA/418592
-#BACKUP_4: http://redworld.pro:8880/Hugomilanca23/nBHgLydNfnzB/418592
-#BACKUP_5: http://redworld.pro:8880/cristina88382819@/EG6LMFNfTaGJ/418592
+http://redworld.pro:8880/Hugomilanca23/nBHgLydNfnzB/418592
+#BACKUP_1: http://redworld.pro:8880/cristina88382819@/EG6LMFNfTaGJ/418592
+#BACKUP_2: http://starlatino.tv:8880/4782/WctmTSGdLQGW/418592
+#BACKUP_3: http://superxlatino.com:8880/Paulo2025/GdS2rrsxyuyH/418592
+#BACKUP_4: http://superxlatino.com:8880/9CBnFc3PNKga/jMyVtHnzzERR/418592
+#BACKUP_5: http://starlatino.tv:8880/Vxtream0052/LT5FewGv9aKA/418592
 #BACKUP_6: http://31.43.191.125:8080/VIP0188169099617407/e6417a7e53b4/134005
 #BACKUP_7: http://31.43.191.125:8080/VIP012221741062784362/6a8530675061/134005
 #BACKUP_8: http://dejatedemamadas.neospaxy.top:8080/3541717342673167/27bc2766868a/58822
@@ -145,23 +145,23 @@ http://starlatino.tv:8880/4782/WctmTSGdLQGW/418593
 #BACKUP_5: http://redworld.pro:8880/cristina88382819@/EG6LMFNfTaGJ/418593
 
 #EXTINF:-1 tvg-id="espnpremium" tvg-name="ESPN Premium HD" tvg-logo="https://raw.githubusercontent.com/mvyevenes/lista/main/logos/espn_premium.png" group-title="⚽ ESPN",ESPN Premium HD
-http://dejatedemamadas.neospaxy.top:8080/3541717342673167/27bc2766868a/52470
-#BACKUP_1: http://dejatedemamadas.neospaxy.top:8080/4811735406266638/2d481b91d9f3/52470
-#BACKUP_2: http://31.43.191.125:8080/VIP0188169099617407/e6417a7e53b4/4828
-#BACKUP_3: http://31.43.191.125:8080/VIP012221741062784362/6a8530675061/4828
+http://31.43.191.125:8080/VIP0188169099617407/e6417a7e53b4/4828
+#BACKUP_1: http://31.43.191.125:8080/VIP012221741062784362/6a8530675061/4828
+#BACKUP_2: http://dejatedemamadas.neospaxy.top:8080/3541717342673167/27bc2766868a/52470
+#BACKUP_3: http://dejatedemamadas.neospaxy.top:8080/4811735406266638/2d481b91d9f3/52470
 
 #EXTINF:-1 tvg-id="espnextra" tvg-name="ESPN Extra HD" tvg-logo="https://raw.githubusercontent.com/mvyevenes/lista/main/logos/espn_extra.png" group-title="⚽ ESPN",ESPN Extra HD
-http://starlatino.tv:8880/Vxtream0052/LT5FewGv9aKA/564198
-#BACKUP_1: http://redworld.pro:8880/Hugomilanca23/nBHgLydNfnzB/564197
-#BACKUP_2: http://dejatedemamadas.neospaxy.top:8080/3541717342673167/27bc2766868a/50796
-#BACKUP_3: http://dejatedemamadas.neospaxy.top:8080/4811735406266638/2d481b91d9f3/50796
-#BACKUP_4: http://starlatino.tv:8880/4782/WctmTSGdLQGW/564197
-#BACKUP_5: http://superxlatino.com:8880/Paulo2025/GdS2rrsxyuyH/564197
-#BACKUP_6: http://superxlatino.com:8880/9CBnFc3PNKga/jMyVtHnzzERR/564197
-#BACKUP_7: http://redworld.pro:8880/cristina88382819@/EG6LMFNfTaGJ/564197
-#BACKUP_8: http://31.43.191.125:8080/VIP0188169099617407/e6417a7e53b4/5156
+http://dejatedemamadas.neospaxy.top:8080/4811735406266638/2d481b91d9f3/50796
+#BACKUP_1: http://dejatedemamadas.neospaxy.top:8080/3541717342673167/27bc2766868a/50796
+#BACKUP_2: http://starlatino.tv:8880/4782/WctmTSGdLQGW/564197
+#BACKUP_3: http://superxlatino.com:8880/Paulo2025/GdS2rrsxyuyH/564197
+#BACKUP_4: http://superxlatino.com:8880/9CBnFc3PNKga/jMyVtHnzzERR/564197
+#BACKUP_5: http://starlatino.tv:8880/Vxtream0052/LT5FewGv9aKA/564197
+#BACKUP_6: http://redworld.pro:8880/cristina88382819@/EG6LMFNfTaGJ/564197
+#BACKUP_7: http://redworld.pro:8880/Hugomilanca23/nBHgLydNfnzB/564198
+#BACKUP_8: http://31.43.191.125:8080/VIP0188169099617407/e6417a7e53b4/4760
 #BACKUP_9: http://31.43.191.125:8080/VIP012221741062784362/6a8530675061/4760
-#BACKUP_10: http://redworld.pro:8880/Hugomilanca23/nBHgLydNfnzB/564198
+#BACKUP_10: http://starlatino.tv:8880/4782/WctmTSGdLQGW/564198
 
 
 # ================== ⚽ FOX SPORTS ==================
@@ -173,10 +173,10 @@ http://starlatino.tv:8880/4782/WctmTSGdLQGW/120545
 #BACKUP_3: http://starlatino.tv:8880/Vxtream0052/LT5FewGv9aKA/120545
 #BACKUP_4: http://redworld.pro:8880/cristina88382819@/EG6LMFNfTaGJ/167734
 #BACKUP_5: http://redworld.pro:8880/Hugomilanca23/nBHgLydNfnzB/167734
-#BACKUP_6: http://dejatedemamadas.neospaxy.top:8080/3541717342673167/27bc2766868a/9982
-#BACKUP_7: http://dejatedemamadas.neospaxy.top:8080/4811735406266638/2d481b91d9f3/9982
-#BACKUP_8: http://31.43.191.125:8080/VIP0188169099617407/e6417a7e53b4/4764
-#BACKUP_9: http://31.43.191.125:8080/VIP012221741062784362/6a8530675061/4764
+#BACKUP_6: http://31.43.191.125:8080/VIP0188169099617407/e6417a7e53b4/4764
+#BACKUP_7: http://31.43.191.125:8080/VIP012221741062784362/6a8530675061/4764
+#BACKUP_8: http://dejatedemamadas.neospaxy.top:8080/3541717342673167/27bc2766868a/9982
+#BACKUP_9: http://dejatedemamadas.neospaxy.top:8080/4811735406266638/2d481b91d9f3/9982
 #BACKUP_10: http://starlatino.tv:8880/4782/WctmTSGdLQGW/167734
 
 #EXTINF:-1 tvg-id="foxsports2.cl" tvg-name="Fox Sports 2 Chile HD" tvg-logo="https://raw.githubusercontent.com/mvyevenes/lista/main/logos/foxsports2.png" group-title="⚽ FOX SPORTS",Fox Sports 2 Chile HD
@@ -193,28 +193,28 @@ http://dejatedemamadas.neospaxy.top:8080/4811735406266638/2d481b91d9f3/71920
 #BACKUP_10: http://dejatedemamadas.neospaxy.top:8080/4811735406266638/2d481b91d9f3/10708
 
 #EXTINF:-1 tvg-id="foxsports3.cl" tvg-name="Fox Sports 3 Chile HD" tvg-logo="https://raw.githubusercontent.com/mvyevenes/lista/main/logos/foxsports3.png" group-title="⚽ FOX SPORTS",Fox Sports 3 Chile HD
-http://starlatino.tv:8880/4782/WctmTSGdLQGW/120547
-#BACKUP_1: http://superxlatino.com:8880/Paulo2025/GdS2rrsxyuyH/120547
-#BACKUP_2: http://superxlatino.com:8880/9CBnFc3PNKga/jMyVtHnzzERR/120547
-#BACKUP_3: http://starlatino.tv:8880/Vxtream0052/LT5FewGv9aKA/120547
-#BACKUP_4: http://redworld.pro:8880/cristina88382819@/EG6LMFNfTaGJ/167736
-#BACKUP_5: http://redworld.pro:8880/Hugomilanca23/nBHgLydNfnzB/167736
-#BACKUP_6: http://dejatedemamadas.neospaxy.top:8080/3541717342673167/27bc2766868a/10084
-#BACKUP_7: http://dejatedemamadas.neospaxy.top:8080/4811735406266638/2d481b91d9f3/10084
-#BACKUP_8: http://31.43.191.125:8080/VIP0188169099617407/e6417a7e53b4/4766
-#BACKUP_9: http://31.43.191.125:8080/VIP012221741062784362/6a8530675061/4766
-#BACKUP_10: http://starlatino.tv:8880/4782/WctmTSGdLQGW/167736
+http://superxlatino.com:8880/Paulo2025/GdS2rrsxyuyH/167736
+#BACKUP_1: http://superxlatino.com:8880/9CBnFc3PNKga/jMyVtHnzzERR/120547
+#BACKUP_2: http://starlatino.tv:8880/Vxtream0052/LT5FewGv9aKA/120547
+#BACKUP_3: http://starlatino.tv:8880/4782/WctmTSGdLQGW/167736
+#BACKUP_4: http://redworld.pro:8880/Hugomilanca23/nBHgLydNfnzB/167736
+#BACKUP_5: http://redworld.pro:8880/cristina88382819@/EG6LMFNfTaGJ/120547
+#BACKUP_6: http://31.43.191.125:8080/VIP0188169099617407/e6417a7e53b4/4766
+#BACKUP_7: http://31.43.191.125:8080/VIP012221741062784362/6a8530675061/4766
+#BACKUP_8: http://dejatedemamadas.neospaxy.top:8080/3541717342673167/27bc2766868a/10084
+#BACKUP_9: http://dejatedemamadas.neospaxy.top:8080/4811735406266638/2d481b91d9f3/10084
+#BACKUP_10: http://starlatino.tv:8880/Vxtream0052/LT5FewGv9aKA/167736
 
 #EXTINF:-1 tvg-id="foxsportspremium" tvg-name="Fox Sports Premium HD" tvg-logo="https://raw.githubusercontent.com/mvyevenes/lista/main/logos/foxsports_premium.png" group-title="⚽ FOX SPORTS",Fox Sports Premium HD
 http://starlatino.tv:8880/4782/WctmTSGdLQGW/167737
-#BACKUP_1: http://starlatino.tv:8880/Vxtream0052/LT5FewGv9aKA/328111
-#BACKUP_2: http://superxlatino.com:8880/Paulo2025/GdS2rrsxyuyH/167737
-#BACKUP_3: http://superxlatino.com:8880/9CBnFc3PNKga/jMyVtHnzzERR/167737
-#BACKUP_4: http://redworld.pro:8880/cristina88382819@/EG6LMFNfTaGJ/328111
-#BACKUP_5: http://redworld.pro:8880/Hugomilanca23/nBHgLydNfnzB/167737
-#BACKUP_6: http://dejatedemamadas.neospaxy.top:8080/3541717342673167/27bc2766868a/9981
-#BACKUP_7: http://dejatedemamadas.neospaxy.top:8080/4811735406266638/2d481b91d9f3/9981
-#BACKUP_8: http://31.43.191.125:8080/VIP0188169099617407/e6417a7e53b4/4767
-#BACKUP_9: http://31.43.191.125:8080/VIP012221741062784362/6a8530675061/4767
-#BACKUP_10: http://starlatino.tv:8880/Vxtream0052/LT5FewGv9aKA/167737
+#BACKUP_1: http://starlatino.tv:8880/Vxtream0052/LT5FewGv9aKA/167737
+#BACKUP_2: http://superxlatino.com:8880/9CBnFc3PNKga/jMyVtHnzzERR/167737
+#BACKUP_3: http://redworld.pro:8880/cristina88382819@/EG6LMFNfTaGJ/328111
+#BACKUP_4: http://redworld.pro:8880/Hugomilanca23/nBHgLydNfnzB/167737
+#BACKUP_5: http://31.43.191.125:8080/VIP0188169099617407/e6417a7e53b4/4767
+#BACKUP_6: http://31.43.191.125:8080/VIP012221741062784362/6a8530675061/4767
+#BACKUP_7: http://dejatedemamadas.neospaxy.top:8080/3541717342673167/27bc2766868a/9981
+#BACKUP_8: http://dejatedemamadas.neospaxy.top:8080/4811735406266638/2d481b91d9f3/9981
+#BACKUP_9: http://superxlatino.com:8880/Paulo2025/GdS2rrsxyuyH/328111
+#BACKUP_10: http://redworld.pro:8880/cristina88382819@/EG6LMFNfTaGJ/167737
 
